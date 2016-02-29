@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sample Vaticanus 13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Essai par Sara Schulthess - diplomatique et interprétatif</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Vat. Ar. 13</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <sourceDoc xml:id="VA13">
+      <!-- #######################################  folio 103v  ####################################### -->
+      <surface xml:id="folio_103v">
+         <line n="1">
+            <choice>
+               <orig>لعل باسم بولوس اعمدتم ܀ <milestone unit="verse" n="1.14"/> اسكر لله اني لم اعمد
+                  اىسان منكم</orig>
+               <reg> لَعَلَّ بِٱسْمِ بُولُوسَ أُعْمِدْتُمْ ܀ <milestone unit="verse" n="1.14"/>
+                  أَشْكُرُ لِلهِ أَنِّي لَمْ أُعْمِدْ إِنْسَانًا مِنْكُمْ </reg>
+            </choice>
+         </line>
+         <line n="2">
+            <choice>
+               <orig>غير قريسقوس وعايبوس ܀ <milestone unit="verse" n="1.15"/> لكيما لا يقول انسان ان
+                  باسمى اعمدتم </orig>
+               <reg> غَيْرَ قِرِيسْفُوسَ وَغَايُوسَ ܀ <milestone unit="verse" n="1.15"/> لِكَيْمَا
+                  لَا يَقُولَ إِنْسَانٌ إِنَّ بِٱسْمِي أُعْمِدْتُمْ ܀ </reg>
+            </choice>
+         </line>
+         <line n="3"><choice>
+               <orig><milestone unit="verse" n="1.16"/>
+                  اعمدت ايصا اهل بيت اسطفانا ܀ ولا اعلم ايضا
+                  اني 
+               </orig>
+               <reg>
+                  <milestone unit="verse" n="1.16"/> أَعْمَدْتُ أَيْضًا أَهْلَ بَيْتِ ٱسْطَفَانَا ܀
+                  وَلَا أَعْلَمُ أَيْضًا أَنِّي </reg>
+            </choice>
+         </line>
+         <line n="4"><choice>
+               <orig> اعمدت انسان اخر ܀ <milestone unit="verse" n="1.17"/> لم يرسلنى المسيح ان اعمد
+                  ܀ ولاكں ان ابشر</orig>
+               <reg> أَعْمَدْتُ إِنْسَانًا آخَرَ ܀ <milestone unit="verse" n="1.17"/> لَمْ
+                  يُرْسِلْنِي ٱلْمَسِيحُ أنْ أُعْمِدَ ܀ وَلَاكِنْ أَنْ أُبَشِّرَ </reg>
+            </choice>
+         </line>
+         <line n="5"><choice>
+               <orig>ليس بكلام الحكمه ܀ لكيما لا يبطل صليب المسيح ܀</orig>
+               <reg>لَيْسَ بِكَلَامِ ٱلْحِكْمَةِ ܀ لِكَيْمَا لَا يُبْطَلَ صَلِيبُ ٱلْمَسِيحِ ܀
+               </reg>
+            </choice>
+         </line>
+         <line n="6"><choice>
+               <orig>
+                  <milestone unit="verse" n="1.18"/> ان كلمه الصليب للصالين هي محفره ܀ اما لبا الذين
+                  ܀ </orig>
+               <reg><milestone unit="verse" n="1.18"/>إِنَّ كَلِمَةَ ٱلصَّلِيبِ لِلضَّالِّينَ هِيَ
+                  مَحْفِرَةٌ ܀ أَمَّا لَنَا ٱلَّذِينَ ܀</reg>
+            </choice>
+         </line>
+         <line n="7"><choice>
+               <orig>قد خلصنا فانها قوه الله ܀ <milestone unit="verse" n="1.19"/> انه مكتوب اني اهلك </orig>
+               <reg>قَدْ خَلَصْنَا فَإِنَّهَا قُوَّةُ ٱللّٰهِ ܀ <milestone unit="verse" n="1.19"/>
+                  إِنَّهُ مَكْتُوبٌ إِنِّي أُهْلِكُ </reg>
+            </choice></line>
+         <line n="8"><choice>
+               <orig>حكمه الحكما ܀ وابطل علم العلما ܀ <milestone unit="verse" n="1.20"/> اىن الحكيم </orig>
+               <reg>حِكْمَةَ ٱلْحُكَمَاءِ ܀ وَأُبْطِلُ عِلْمَ ٱلْعُلَمَاءِ ܀ <milestone unit="verse"
+                     n="1.20"/> أَيْنَ ٱلْحَكِيمُ </reg>
+            </choice></line>
+         <line n="9"><choice>
+               <orig>اين الكاتب اىں مجادل هدا العالم ܀ اليس فد سفه الله ܀</orig>
+               <reg>أَيْنَ ٱلْكَاتِبُ أَيْنَ مُجَادِلُ هٰذَا ٱلْعَالَمِ ܀ أَلَيْسَ قَدْ سَفَّهَ
+                  ٱللّٰهُ ܀ </reg>
+            </choice>
+         </line>
+         <line n="10"><choice>
+               <orig>حكمه هذا العالم ܀ <milestone unit="verse" n="1.21"/> من اجل ان ىحكمه الله لا
+                  يعلم العالم </orig>
+               <reg>
+                  <milestone unit="verse" n="1.21"/> مِنْ أَجْلِ أَنَّ بِحِكْمَةِ ٱللّٰهِ لَا
+                  يَعْلَمُ ٱلْعَالَمُ</reg>
+            </choice></line>
+         <line n="11"><choice>
+               <orig>بالحكمه الله ܀ احب الله ان بسفاهه البشري يحى للذين ىوم<unclear>نون</unclear>
+               </orig>
+               <reg>بِٱلْحِكْمَةِ ٱللّٰهَ ܀ أَحَبَّ ٱللّٰهُ أَنْ بِسَفَاهَةِ ٱلْبُشْرَى يُحْيِيَ
+                  لِلَّذِينَ يُؤْم<unclear>ِنُونَ</unclear></reg>
+            </choice></line>
+         <line n="12"><choice>
+               <orig><milestone unit="verse" n="1.22"/>من اجل ان اليهود يسالون الايات ܀ والحنفا
+                  يريدون الح<unclear>كمه</unclear>
+               </orig>
+               <reg><milestone unit="verse" n="1.22"/>مِنْ أَجْلِ أَنَّ ٱلْيَهُودَ يَسْأَلُونَ
+                  ٱلآيَاتِ ܀ وَٱلْحُنَفَاءُ يُرِيدُونَ ٱلْحِ<unclear>كْمَةَ</unclear></reg>
+            </choice></line>
+         <line n="13"><choice>
+               <orig><milestone unit="verse" n="1.23"/>اما نحن ىكرز المسيح اد هو مصلوب
+                  فلليهدى</orig>
+               <reg><milestone unit="verse" n="1.23"/>أَمَّا نَحْنُ نَكْرِزُ ٱلْمَسِيحَ إِذْ هُوَ
+                  مَصْلُوبٌ فَلِلْيَهُدِيِّ</reg>
+            </choice></line>
+         <line n="14"><choice>
+               <orig> التشكك ܀ وللشعوب السفاهه ܀ <milestone unit="verse" n="1.24"/> اما
+                     للمد<unclear>عوين</unclear> الذ<unclear>ين</unclear>
+               </orig>
+               <reg>ٱلتَّشَكُّكُ ܀ وَلِلشُّعُوبِ ٱلسَّفَاهَةُ ܀ <milestone unit="verse" n="1.24"/>
+                  أَمَّا لِلْمَدْ<unclear>عُوِّينَ</unclear> ٱلَّذِ<unclear>ينَ</unclear>
+               </reg>
+            </choice>
+         </line>
+         <line n="15"><choice>
+               <orig>هم اليهود ܀ والحنفا ܀ المسيح قوه الله وحكمه <unclear>الله</unclear>
+               </orig>
+               <reg>هُمُ ٱلْيَهُودُ ܀ وَٱلْحُنَفَاءُ ܀ ٱلمَسِيحُ قوَّةُ ٱللّٰهِ وَحِكْمَةُ
+                     <unclear>ٱللّٰهِ</unclear>
+               </reg>
+            </choice></line>
+         <line n="16"><choice>
+               <orig><milestone unit="verse" n="1.25"/>من اجل ان سفاهه الله هو احكم من ابنا البشر
+                     وض<unclear>عف</unclear>
+               </orig>
+               <reg><milestone unit="verse" n="1.25"/>مِنْ أَجْلِ أَنَّ سَفَاهَةَ ٱللّٰهِ هُوَ
+                  أَحْكَمُ مِنْ أَبْنَاءِ ٱلْبَشَرِ وَضُ<unclear>عْفُ</unclear></reg>
+            </choice></line>
+         <line n="17"><choice>
+               <orig>الله اسد من ابنا البشر ܀ <milestone unit="verse" n="1.26"/> فانطروا الى دعوتكم
+                  يا ا<unclear>خوه</unclear> ܀ </orig>
+               <reg>ٱللّٰهِ أَشَدُّ مِنْ أَبْنَاءَ ٱلْبَشَرِ ܀ <milestone unit="verse" n="1.26"/>
+                  فَٱنْظُرُوا إِلَى دَعْوَتِكُمْ يَا إِ<unclear>خْوَةُ</unclear> ܀</reg>
+            </choice></line>
+         <line n="18"><choice>
+               <orig>انه ليسو كثير فيكم الحكما بالحسد ܀ وليس </orig>
+               <reg>إِنَّهُ لَيْسَ كَثِيرًا فِيكُمُ ٱلْحُكَمَاءُ بِٱلْجَسَدِ ܀ وَلَيْسَ</reg>
+            </choice></line>
+         <line n="19"><choice>
+               <orig>يكثر فيكم ذوي القوه ܀ وليسو فىكم دوي </orig>
+               <reg>يَكْثُرُ فِيكُمْ ذَوِي ٱلْقُوَّةِ ܀ وَلَيْسُوا فِيكُمْ ذَوِي </reg>
+            </choice></line>
+         <line n="20"><choice>
+               <orig>الحسب العطيم ܀ ٪ <milestone unit="verse" n="1.27"/> ولاكن احتار الله صعفا
+                  العالم </orig>
+               <reg> ٱلْحَسَبِ ٱلْعَظِيمِ ܀ ٪ <milestone unit="verse" n="1.27"/> وَلَاكِنَّ ٱخْتَارَ
+                  ٱللّٰهُ ضُعَفَاءَ ٱلْعَالَمِ </reg>
+            </choice></line>
+         <line n="21"><choice>
+               <orig><add>٪ و احىار الله سڡها هذا العالم لىحرىى الحكما ٪ </add></orig>
+               <reg><add> ٪ وَٱخْتَارَ ٱللّٰهُ سُفَهَاءَ هٰذَا ٱلعَالَمِ لِيَخْزِيَ ٱلْحُكَمَاءَ
+                     ٪</add></reg>
+            </choice></line>
+      </surface>
+      <!-- #######################################  folio 104r  ####################################### -->
+      <surface xml:id="folio_104r">
+         <line n="1"><choice>
+               <orig> ليخري دوي الفوه ܀ <milestone unit="verse" n="1.28"/> واحنار الله ܀ الناقصى
+                  الحسب الذىن في </orig>
+               <reg>لِيَخْزِيَ ذَوِي ٱلْقُوَّةِ ܀ <milestone unit="verse" n="1.28"/>وَٱخْتَارَ
+                  ٱللّٰهُ ܀ لِنَاقِصِي ٱلحَسَبِ ٱلَّذِينَ فِي </reg>
+            </choice></line>
+         <line n="2"><choice>
+               <orig>العالم والمرذلين وللذين ليس هم ܀ بشي ليبطل الذين هو شى ܀ </orig>
+               <reg>ٱلْعَالَمِ وَٱلْمُرْذَلِينَ وَلِلَّذِينَ لَيْسَ هُمْ ܀ بِشَيْءٍ لِيُبْطِلَ
+                  ٱلَّذِينَ هُوَ شَيْءٌ ܀ </reg>
+            </choice></line>
+         <line n="3"><choice>
+               <orig><milestone unit="verse" n="1.29"/>لكيما لا يفتخر كل بشر قدامه ܀<milestone
+                     unit="verse" n="1.30"/> اما انتم منه انتم بالمسيح - </orig>
+               <reg><milestone unit="verse" n="1.29"/>لِكَيْمَا لَا يَفْتَخِرَ كُلُّ بَشَرٍ
+                  قُدَّامَهُ ܀ <milestone unit="verse" n="1.30"/> أَمَّا أَنْتُمْ مِنْهُ أَنْتُمْ
+                  بِٱلْمَسِيحِ - </reg>
+            </choice></line>
+         <line n="4"><choice>
+               <orig>يسوع ܀ الذي كان لنا حكمه من الله والبر والطهر ܀ </orig>
+               <reg>يَسُوعَ ܀ ٱلَّذِي كَانَ لَنَا حِكْمَةً مِنَ ٱللّٰهِ وَٱلْبِرَّ وَٱلطُّهْرَ ܀
+               </reg>
+            </choice></line>
+         <line n="5"><choice>
+               <orig>والحلاص ܀ <milestone unit="verse" n="1.31"/> كما انه مكتوب ܀ مں يفتحر فليفتخر
+                  بالرب ܀ </orig>
+               <reg>وَٱلْخَلَاصَ ܀ <milestone unit="verse" n="1.31"/> كَمَا أنَّهُ مَكْتُوبٌ ܀ مَنْ
+                  يَفْتَخِرُ فَلْيَفْتَخِرْ بِٱلرَّبِّ ܀ </reg>
+            </choice></line>
+         <line n="6"><choice>
+               <orig><milestone unit="verse" n="2.1"/>وانا ايصا حين جيت اليكم ܀ يا اخوه حىٮ ليس بعطم </orig>
+               <reg><milestone unit="verse" n="2.1"/>وَأَنَا أَيْضًا حِينَ جِئْتُ إِلَيْكُمْ ܀ يَا
+                  إِخْوَةُ جِئْتُ لَيْسَ بِعِظَمِ </reg>
+            </choice></line>
+         <line n="7"><choice>
+               <orig>كلام ܀ او بحكمه ابشركم ܀ سراير الله ܀ <milestone unit="verse" n="2.2"/> ولم ܀
+                  اريد اعلم </orig>
+               <reg>كَلَامٍ ܀ أَوْ بِحِكْمَةٍ أُبَشِّرُكُمْ ܀ سَرَائِرَ ٱللّٰهِ ܀ <milestone
+                     unit="verse" n="2.2"/> وَلَمْ ܀ أُرِدْ أَعْلَمَ </reg>
+            </choice></line>
+         <line n="8"><choice>
+               <orig>فيكم شى ܀ الا ان ليسوع المسيح وله اد هو مصلوب ܀</orig>
+               <reg>فِيكُمْ شَيْئًا ܀ إِلَّا أَنَّ لِيَسُوعَ ٱلْمَسِيحِ وَلَهُ إِذْ هُوَ مَصْلُوبٌ ܀
+               </reg>
+            </choice></line>
+         <line n="9"><choice>
+               <orig><milestone unit="verse" n="2.3"/>وانا كنت عندكم ܀ بصعف ورعب ورعده شديده
+                  ܀</orig>
+               <reg><milestone unit="verse" n="2.3"/>وَأنَا كُنْتُ عِنْدَكُمْ ܀ بِضُعْفٍ وَرُعْبٍ
+                  وَرَعْدَةٍ شَدِيدَةٍ ܀ </reg>
+            </choice></line>
+         <line n="10"><choice>
+               <orig><milestone unit="verse" n="2.4"/>كلامى وبشراي لم ىكن يطلب كلام الحكما ܀
+                  ولا</orig>
+               <reg><milestone unit="verse" n="2.4"/>كَلَامِي وَبُشْرَيَّ لَمْ يَكُنْ بِطَلَبِ
+                  كَلَامِ ٱلْحُكَمَاءِ ܀ وَلَا </reg>
+            </choice></line>
+         <line n="11"><choice>
+               <orig>كن بدمغه الروح والقوه ܀ <milestone unit="verse" n="2.5"/> لكيما لا تكون امانتكم </orig>
+               <reg>كِنْ بِدَمْغَةِ ٱلرُّوحِ وَٱلْقُوَّةِ ܀ <milestone unit="verse" n="2.5"/>
+                  لِكَيْمَا لَا تَكْونَ أَمَانَتُكُمْ </reg>
+            </choice></line>
+         <line n="12"><choice>
+               <orig><unclear>ب</unclear>حكمه اىنا البشر ܀ ولاكن بقوه الله ܀ <milestone unit="verse"
+                     n="2.6"/> الحكمه تتكلم </orig>
+               <reg><unclear>بِ</unclear>حِكْمَةِ أَبْنَاءِ ٱلْبَشَرِ ܀ وَلَاكِنْ بِقُوَّةِ ٱللّٰهِ
+                  ܀ <milestone unit="verse" n="2.6"/> أَلْحِكْمَةُ نَتَكَلَّمُ </reg>
+            </choice></line>
+         <line n="13"><choice>
+               <orig>في التامين بحكمه ليس هى لهذا العالم ܀ ولا ايصا لدوي</orig>
+               <reg>فِي ٱلتَّامِّينَ بِحِكْمَةٍ لَيْسَ هِيَ لِهٰذَا ٱلْعَالَمِ ܀ وَلَا أَيْضًا
+                  لِذَوِي </reg>
+            </choice>
+         </line>
+         <line n="14"><choice>
+               <orig><unclear>س</unclear>لطان هذا العالم ܀ الدين يبطلون ܀ <milestone unit="verse"
+                     n="2.7"/> ولاكن ننطق ܀</orig>
+               <reg><unclear>سُ</unclear>لْطَانِ هٰذَا ٱلْعَالَمِ ܀ ٱلَّذِينَ يُبْطَلُونَ ܀
+                     <milestone unit="verse" n="2.7"/> وَلَاكِنْ نَنْطِقُ ܀ </reg>
+            </choice></line>
+         <line n="15"><choice>
+               <orig>بحكمه الله بالسر ܀ التى هى محزونه ܀ الىى تقدم ثبت الله ܀</orig>
+               <reg>بِحِكْمَةِ ٱللّٰهِ بِٱلسِّرِّ ܀ ٱلَّتِي هِيَ مَخْزُونَةٌ ܀ ٱلَّتِي تَقَدَّمَ
+                  ثَبَتَ ٱللّٰهُ ܀ </reg>
+            </choice></line>
+         <line n="16"><choice>
+               <orig>قبل الدهر لمحدنا نحن <milestone unit="verse" n="2.8"/> التى واحد من دوي سلطان
+                  هذا</orig>
+               <reg>قَبْلَ ٱلدَّهْرِ لِمَجْدِنَا نَحْنُ <milestone unit="verse" n="2.8"/> ٱلَّتِي
+                  وَاحِد مِن ذَوِي سُلْطَانِ هٰذَا </reg>
+            </choice></line>
+         <line n="17"><choice>
+               <orig><unclear>العا</unclear>لم لا يعلمها ܀ ولو انهم علموا ليس لرب المجد كانوا</orig>
+               <reg><unclear>ٱلْعَا</unclear>لَمِ لَا يَعْلَمُهَا ܀ وَلَوْ أَنَّهُمْ عَلِمُوا لَيْسَ
+                  لِرَبِّ ٱلْمَجْدِ كَانُوا </reg>
+            </choice></line>
+         <line n="18"><choice>
+               <orig>يصلبون ܀ <milestone unit="verse" n="2.9"/> ولاكن كما انه مكتوب ܀ ان التى لم
+                  تراه </orig>
+               <reg>يَصْلِبُونَ ܀ <milestone unit="verse" n="2.9"/> وَلَاكِنْ كَمَا أَنَّهُ
+                  مَكْتُوبٌ ܀ إِنَّ ٱلَّتِي لَمْ تَرَهُ </reg>
+            </choice></line>
+         <line n="19"><choice>
+               <orig>العيون ܀ والاذان لم تسمع ܀ وعلى قلب انسان لم يخطر -</orig>
+               <reg>ٱلْعُيُونُ ܀ وَٱلْآذَانُ لَمْ تَسْمَعْ ܀ وَعَلَى قَلْبِ إِنْسَانٍ لَمْ يَخْطُرْ
+                  - </reg>
+            </choice></line>
+         <line n="20"><choice>
+               <orig><unclear>ا</unclear>عده الله للذين ىحبونه ܀ <milestone unit="verse" n="2.10"/>
+                  اما لنا فاعلن الله لنا بروحه ܀ الروح </orig>
+               <reg><unclear>أَ</unclear>عَدَّهُ ٱللّٰهُ لِلَّذِينَ يُحِبُّونَهُ ܀ <milestone
+                     unit="verse" n="2.10"/> أَمَّا لَنَا فَأَعْلَنَ ٱللّٰهُ لَنَا بِرُوحِهِ ܀
+                  أَلرُّوحُ </reg>
+            </choice></line>
+      </surface>
+   </sourceDoc>
+</TEI>

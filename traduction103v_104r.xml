@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sample Vaticanus 13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Essai par Sara Schulthess - traduction</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Vat. Ar. 13</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <milestone unit="verse" n="1.13"/> Pourquoi? Le Christ a-t-il été divisé? Ou
+               peut-être Paul a-t-il été crucifié à cause de vous? <pb n="103v" xml:id="folio_103v"
+               /> Peut-être avez-vous, au nom de Paul, été baptisés? <milestone unit="verse"
+                  n="1.14"/> Je remercie Dieu de n'avoir baptisé aucun d'entre vous, sauf Crispus et
+               Gaïus, <milestone unit="verse" n="1.15"/> afin que personne ne dise que vous avez été
+               baptisés en mon nom. <milestone unit="verse" n="1.16"/> J'ai aussi baptisé les gens
+               de la maison de Stéphane et je ne sais pas avoir baptisé quelqu'un d'autre encore.
+                  <milestone unit="verse" n="1.17"/> Le Christ ne m'a pas envoyé baptiser mais
+               prêcher, pas par la parole de sagesse, afin que la croix du Christ ne soit pas
+               annihilée. <milestone unit="verse" n="1.18"/> La parole de la croix pour les égarés
+               est une honte (?), mais pour nous qui sommes sauvés, elle est puissance de Dieu.
+                  <milestone unit="verse" n="1.19"/> Il est écrit: je détruirai la sagesse des sages
+               et j'anéantirai la science des scientifiques. <milestone unit="verse" n="1.20"/> Où
+               est le sage? Où est l'écrivain? Où est le dialecticien de ce siècle? Dieu n'a-t-il
+               pas démontré la folie de la sagesse de ce monde? <milestone unit="verse" n="1.21"/>
+               Parce que, dans la sagesse de Dieu, le monde ne connaît pas, par la sagesse, Dieu;
+               Dieu a voulu que, par la folie de la prédication, il sauve ceux qui croient.
+                  <milestone unit="verse" n="1.22"/> Parce que les juifs demandent des signes et les
+               païens veulent de la sagesse, <milestone unit="verse" n="1.23"/> mais nous, nous
+               prêchons le Christ comme étant crucifié, pour les juifs scandale, et pour les
+               nations, folie, <milestone unit="verse" n="1.24"/> mais pour les appelés, ceux qui
+               sont juifs et païns, le Christ est puissance de Dieu et sagesse de Dieu, <milestone
+                  unit="verse" n="1.25"/> parce que la folie de Dieu est plus sage que les humains
+               et la faiblesse de Dieu plus forte que les humains. <milestone unit="verse" n="1.26"
+               /> Car regardez votre appel, ô frères, il n'y a pas parmi vous beaucoup de sages en
+               corps, et il n'y a pas parmi vous beaucoup de gens qui ont de la puissance, et il n'y
+               a pas parmi vous de gens qui ont une grande valeur <milestone unit="verse" n="1.27"/>
+               mais Dieu a choisi les fous de ce monde pour discréditer les sages, et Dieu a choisi
+               les faibles du monde <pb n="104r" xml:id="folio_104r"/>pour discréditer ceux qui ont
+               la puissance, <milestone unit="verse" n="1.28"/> et Dieu a choisi les insuffisants en
+               valeur qui sont dans le monde et les méprisés, et ceux qui ne sont rien, pour
+               annihiler ceux qui sont quelque chose, <milestone unit="verse" n="1.29"/> afin
+               qu'aucun homme ne se vante face à lui. <milestone unit="verse" n="1.30"/> Quant à
+               vous, à partir de lui vous êtes en le Christ Jésus, qui a été pour nous sagesse
+               venant de Dieu, justice, pureté et salut. <milestone unit="verse" n="1.31"/> Comme il
+               est écrit: celui qui s'enorgueillit, qu'il s'enorgueillisse dans le Seigneur.
+                  <milestone unit="verse" n="2.1"/> Et moi aussi, lorsque je suis venu chez vous, ô
+               frères, je ne suis pas venu dans la grandeur d'une parole ou dans une sagesse vous
+               annoncer les mystères de Dieu, <milestone unit="verse" n="2.2"/> et je n'ai rien
+               voulu savoir parmi vous, excepté Jésus le Christ, et lui en tant que crucifié.
+                  <milestone unit="verse" n="2.3"/> Et moi, j'ai été chez vous dans une fragilité,
+               une peur et dans un tremblement violent, <milestone unit="verse" n="2.4"/> Ma parole
+               et ma prédication n'ont pas été dans la sollicitation de la parole des sages, mais
+               dans la marque de l'esprit et de la puissance, <milestone unit="verse" n="2.5"/> afin
+               que votre foi ne soit pas dans la sagesse des humains, mais dans la puissance de
+               Dieu. <milestone unit="verse" n="2.6"/> Nous parlons de la sagesse parmi les
+               parfaits, une sagesse qui n'est pas de ce monde, ni de ceux qui ont l'autorité de ce
+               monde, qui seront annihilés, <milestone unit="verse" n="2.7"/> mais nous parlons de
+               la sagesse de Dieu, dans le mystère, qui est cachée, que Dieu a en avance établie
+               avant le temps pour notre gloire à tous, <milestone unit="verse" n="2.8"/> que
+               personne de ceux qui ont l'autorité de ce monde ne comprend, et s'ils avaient connue,
+               ils n'auraient pas crucifié le Seigneur de gloire. <milestone unit="verse" n="2.9"
+               /> Mais, comme il est écrit: ce que
+               les yeux n'ont pas vu, et les oreilles pas entendu, et ce qui n'est pas venu au coeur
+               de l'homme, Dieu l’a préparé pour ceux qui l'aiment. <milestone unit="verse" n="2.10"
+               /> Quant à nous, Dieu nous l’a révélé par son esprit: l'esprit connaît [folio 104v]
+               tout et aussi la profondeur des secrets de Dieu. </p>
+         </div>
+      </body>
+   </text>
+</TEI>
