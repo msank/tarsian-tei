@@ -1,4 +1,4 @@
 # Tarsian-EI
 
-This repesitory contains the tei:xml data used in tarsian viewer.
+This repository contains the tei:xml data used in tarsian viewer.
 
