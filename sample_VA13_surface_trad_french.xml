@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traduction française de 1 Corinthiens dans le Vaticanus Arabicus 13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Traduction par Sara Schulthess</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Vat. Ar. 13, folios 103r-120r</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+<!-- #######################################  folio 103r  ####################################### -->           
+               <pb n="103r" xml:id="folio_103r"/>
+               <milestone unit="verse" n="1.1"/>
+               Paul, appelé envoyé de Jésus le Christ par la volonté de Dieu, et Sosthène, le frère,
+               <milestone unit="verse" n="1.2"/>
+               à l’église de Dieu qui est à Corinthe, aux saints en le Christ Jésus, appelés saints avec tous ceux qui invoquent le nom de notre Seigneur Jésus le Christ, en tout lieu qui est à nous et à eux,
+               <milestone unit="verse" n="1.3"/>
+               la grâce avec vous et la paix de Dieu notre père et notre Seigneur Jésus le Christ.
+               <milestone unit="verse" n="1.4"/>
+               Je remercie mon Dieu à tout moment à cause de vous, pour la grâce de Dieu qui vous a été donnée en Jésus le Christ.
+               <milestone unit="verse" n="1.5"/>
+               Vous, en toute chose, vous avez été multipliés en lui, en toute la parole et toute la connaissance,
+               <milestone unit="verse" n="1.6"/>
+               comme le témoignage du Christ a été affermi en vous,
+               <milestone unit="verse" n="1.7"/>
+               de même que vous ne manquez de rien parmi les dons, quand vous attendez la venue de notre Seigneur Jésus le Christ,
+               <milestone unit="verse" n="1.8"/>
+               lui qui vous affermit aussi jusqu’à la fin [pour que] vous soyez sans reproche le jour de notre Seigneur Jésus le Christ.
+               <milestone unit="verse" n="1.9"/>
+               Dieu est fidèle, lui qui, par lui, vous a invités à être ministres de son fils Jésus le Christ.
+               <milestone unit="verse" n="1.10"/>
+               Je veux de vous, ô frères, au nom de notre Seigneur Jésus le Christ, que tous vous soyez dans une seule parole et qu’il n’y ait pas de désaccord entre vous, mais que vous soyez parfaits dans cette pensée et cette compréhension.
+               <milestone unit="verse" n="1.11"/>
+               Il m’a été envoyé à cause de vous, frères, qu’il y a entre vous, de la part des gens de Chloé, dispute.
+               <milestone unit="verse" n="1.12"/>
+               Je dis cela parce que, parmi vous, quelqu’un dit : je suis de la secte de Paul, et un autre dit : je suis de la secte de Apollos, et un autre dit : je suis de la secte de Pierre, et un autre dit : je suis de la secte du Christ.
+               
+               
+               
+               <milestone unit="verse" n="1.13"/> Pourquoi? Le Christ a-t-il été divisé? Ou
+               peut-être Paul a-t-il été crucifié à cause de vous? 
+               <!-- #######################################  folio 103v  ####################################### -->
+               <pb n="103v" xml:id="folio_103v"
+               /> Peut-être avez-vous, au nom de Paul, été baptisés? <milestone unit="verse"
+                  n="1.14"/> Je remercie Dieu de n'avoir baptisé aucun d'entre vous, sauf Crispus et
+               Gaïus, <milestone unit="verse" n="1.15"/> afin que personne ne dise que vous avez été
+               baptisés en mon nom. <milestone unit="verse" n="1.16"/> J'ai aussi baptisé les gens
+               de la maison de Stéphane et je ne sais pas avoir baptisé quelqu'un d'autre encore.
+                  <milestone unit="verse" n="1.17"/> Le Christ ne m'a pas envoyé baptiser mais
+               prêcher, pas par la parole de sagesse, afin que la croix du Christ ne soit pas
+               annihilée. <milestone unit="verse" n="1.18"/> La parole de la croix pour les égarés
+               est une honte (?), mais pour nous qui sommes sauvés, elle est puissance de Dieu.
+                  <milestone unit="verse" n="1.19"/> Il est écrit: je détruirai la sagesse des sages
+               et j'anéantirai la science des scientifiques. <milestone unit="verse" n="1.20"/> Où
+               est le sage? Où est l'écrivain? Où est le dialecticien de ce siècle? Dieu n'a-t-il
+               pas démontré la folie de la sagesse de ce monde? <milestone unit="verse" n="1.21"/>
+               Parce que, dans la sagesse de Dieu, le monde ne connaît pas, par la sagesse, Dieu;
+               Dieu a voulu que, par la folie de la prédication, il sauve ceux qui croient.
+                  <milestone unit="verse" n="1.22"/> Parce que les juifs demandent des signes et les
+               païens veulent de la sagesse, <milestone unit="verse" n="1.23"/> mais nous, nous
+               prêchons le Christ comme étant crucifié, pour les juifs scandale, et pour les
+               nations, folie, <milestone unit="verse" n="1.24"/> mais pour les appelés, ceux qui
+               sont juifs et païns, le Christ est puissance de Dieu et sagesse de Dieu, <milestone
+                  unit="verse" n="1.25"/> parce que la folie de Dieu est plus sage que les humains
+               et la faiblesse de Dieu plus forte que les humains. <milestone unit="verse" n="1.26"
+               /> Car regardez votre appel, ô frères, il n'y a pas parmi vous beaucoup de sages en
+               corps, et il n'y a pas parmi vous beaucoup de gens qui ont de la puissance, et il n'y
+               a pas parmi vous de gens qui ont une grande valeur <milestone unit="verse" n="1.27"/>
+               mais Dieu a choisi les fous de ce monde pour discréditer les sages, et Dieu a choisi
+               les faibles du monde 
+               
+               <!-- #######################################  folio 104r  ####################################### -->
+               <pb n="104r" xml:id="folio_104r"/>pour discréditer ceux qui ont
+               la puissance, <milestone unit="verse" n="1.28"/> et Dieu a choisi les insuffisants en
+               valeur qui sont dans le monde et les méprisés, et ceux qui ne sont rien, pour
+               annihiler ceux qui sont quelque chose, <milestone unit="verse" n="1.29"/> afin
+               qu'aucun homme ne se vante face à lui. <milestone unit="verse" n="1.30"/> Quant à
+               vous, à partir de lui vous êtes en le Christ Jésus, qui a été pour nous sagesse
+               venant de Dieu, justice, pureté et salut. <milestone unit="verse" n="1.31"/> Comme il
+               est écrit: celui qui s'enorgueillit, qu'il s'enorgueillisse dans le Seigneur.
+                  <milestone unit="verse" n="2.1"/> Et moi aussi, lorsque je suis venu chez vous, ô
+               frères, je ne suis pas venu dans la grandeur d'une parole ou dans une sagesse vous
+               annoncer les mystères de Dieu, <milestone unit="verse" n="2.2"/> et je n'ai rien
+               voulu savoir parmi vous, excepté Jésus le Christ, et lui en tant que crucifié.
+                  <milestone unit="verse" n="2.3"/> Et moi, j'ai été chez vous dans une fragilité,
+               une peur et dans un tremblement violent, <milestone unit="verse" n="2.4"/> Ma parole
+               et ma prédication n'ont pas été dans la sollicitation de la parole des sages, mais
+               dans la marque de l'esprit et de la puissance, <milestone unit="verse" n="2.5"/> afin
+               que votre foi ne soit pas dans la sagesse des humains, mais dans la puissance de
+               Dieu. <milestone unit="verse" n="2.6"/> Nous parlons de la sagesse parmi les
+               parfaits, une sagesse qui n'est pas de ce monde, ni de ceux qui ont l'autorité de ce
+               monde, qui seront annihilés, <milestone unit="verse" n="2.7"/> mais nous parlons de
+               la sagesse de Dieu, dans le mystère, qui est cachée, que Dieu a en avance établie
+               avant le temps pour notre gloire à tous, <milestone unit="verse" n="2.8"/> que
+               personne de ceux qui ont l'autorité de ce monde ne comprend, et s'ils avaient connue,
+               ils n'auraient pas crucifié le Seigneur de gloire. <milestone unit="verse" n="2.9"/> Mais, comme il est écrit: ce que
+               les yeux n'ont pas vu, et les oreilles pas entendu, et ce qui n'est pas venu au coeur
+               de l'homme, Dieu l’a préparé pour ceux qui l'aiment. <milestone unit="verse" n="2.10"
+               /> Quant à nous, Dieu nous l’a révélé par son esprit: l'esprit connaît
+               <!-- #######################################  folio 104v  ####################################### -->
+               <pb n="104v" xml:id="folio_104v"/>
+               connaît tout et aussi la profondeur des secrets de Dieu.
+               <milestone unit="verse" n="2.11"/>
+               Qui, parmi les hommes, connaît ce qu’il y a en l’homme, excepté l’esprit de l’homme qui est en lui ? Ainsi, aussi ce qui est en Dieu, l’homme ne le connaît pas, excepté l’esprit de Dieu.
+               <milestone unit="verse" n="2.12"/>
+               Quant à nous, nous n’avons pas reçu l’esprit du monde, mais un esprit venant de Dieu pour connaître les dons qui nous avons reçu de Dieu,
+               <milestone unit="verse" n="2.13"/>
+               dont aussi nous parlons, non dans l’enseignement (...) de l’esprit, et aux spirituels, nous comparons les choses spirituelles.
+               <milestone unit="verse" n="2.14"/>
+               Quant à l’homme psychique, il n’accepte pas les biens de l’esprit de Dieu, car ceci pour lui est folie, et il ne peut pas savoir que cela est jugé spirituellement. 
+               <milestone unit="verse" n="2.15"/>
+               Quant au spirituel, il juge toute chose, or quant à lui, il ne sera jugé par personne.
+               <milestone unit="verse" n="2.16"/>
+               Qui a connu la pensée de Dieu de sorte à l’enseigner ? Quant à nous, nous avons l’intelligence du Christ.
+               <milestone unit="verse" n="3.1"/>
+               Et moi, frères, je n’ai pas pu vous parler comme aux spirituels, mais comme aux charnels et comme aux enfants en le Christ.
+               <milestone unit="verse" n="3.2"/>
+               C’est du lait que je vous ai fait boire, et je ne vous ai pas donné de nourriture, parce que vous ne pouviez [la] supporter, [...] 
+               <milestone unit="verse" n="3.3"/>
+               parce que vous êtes encore corporels. Car lorsqu’il y a parmi vous l’envie, la dispute, le désaccord, n’êtes-vous pas corporels et ne vous conduisez-vous pas selon ce qui est propre à l’humain ??
+               <milestone unit="verse" n="3.4"/>
+               Quand, en vérité, l’un de vous dit : je suis de la secte de Paul, et qu’un autre dit : je suis de la secte d’Apollos, n’êtes-vous pas corporels ?
+               <milestone unit="verse" n="3.5"/>
+               Car qui est Apollos et qui est Paul, sinon des serviteurs, par l’intermédiaire desquels vous avez cru, chacun selon ce que le Seigneur lui a donné ?
+               <milestone unit="verse" n="3.6"/>
+               Moi j’ai planté, et Apollos a arrosé mais c’est Dieu qui a fait grandir.
+               <milestone unit="verse" n="3.7"/>
+               Donc ce n’est pas celui qui plante qui est quelque chose, ni celui qui arrose, mais Dieu qui fait croître.
+               <milestone unit="verse" n="3.8"/>
+               Quant à celui qui plante et celui qui arrose, ils sont un, et chacun d’entre eux              
+  
+               <!-- #######################################  folio 105r  ####################################### -->
+               <pb n="105r" xml:id="folio_105r"/>
+               prendra son salaire en rapport avec son travail.
+               <milestone unit="verse" n="3.9"/>
+               En vérité, nous travaillons avec Dieu, et le travail de Dieu et l’édifice de Dieu, c’est vous.
+               <milestone unit="verse" n="3.10"/>
+               Selon la grâce de Dieu qui m’a été donnée, j’ai posé le fondement, comme le sage artisan, et un autre bâtit sur lui. Or que chacun regarde comment il construit sur lui.
+               <milestone unit="verse" n="3.11"/>
+               De fondement autre que celui qui est posé – qui est Jésus le Christ –, personne ne peut [en] poser.
+               <milestone unit="verse" n="3.12"/>
+               Or si quelqu’un a bâti sur ce fondement or, argent, pierre précieuse, bois, foin ou roseau,
+               <milestone unit="verse" n="3.13"/>
+               alors l’œuvre de chacun sera connue, ce jour-là l’annoncera, car, par le feu, elle sera révélée, et l’œuvre de chacun, tel qu’elle est, le feu la testera.
+               <milestone unit="verse" n="3.14"/>
+               Et celui dont l’œuvre qu’il a construite est stable, il recevra son salaire,
+               <milestone unit="verse" n="3.15"/>
+               et celui dont l’œuvre sera brûlée, il [la] perdra. Quant à lui, il sera sauvé ainsi, comme ce qui l’est par le feu.
+               <milestone unit="verse" n="3.16"/>
+               Ne savez-vous pas que vous êtes le sanctuaire de Dieu et que l’esprit de Dieu habite en vous ?
+               <milestone unit="verse" n="3.17"/>
+               Si quelqu’un détruit le temple de Dieu, Dieu le détruira. Le temple de Dieu est saint, ce que vous êtes.
+               <milestone unit="verse" n="3.18"/>
+               Que personne ne dépasse ses limites. Si quelqu’un parmi vous pense qu’il est sage dans ce monde, qu’il soit fou pour être sage,
+               <milestone unit="verse" n="3.19"/>
+               parce que la sagesse de ce monde est folie face à Dieu. Il est écrit : il prendra les sages par leur ruse,
+               <milestone unit="verse" n="3.20"/>
+               et aussi : le Seigneur connaît les préoccupations des sages, elles sont vaines.
+               <milestone unit="verse" n="3.21"/>
+               Donc que personne ne s’enorgueillisse en l’homme, parce que toute chose est à vous.
+               <milestone unit="verse" n="3.22"/>
+               Que ce soient Paul, Apollos, Pierre, le monde, la vie, la mort, ce qui est fixe, ce qui est, toute chose est à vous
+               <milestone unit="verse" n="3.23"/>
+               et vous
+               
+               <!-- #######################################  folio 105v  ####################################### -->
+               <pb n="105v" xml:id="folio_105v"/>
+               êtes au Christ, et le Christ est à Dieu.
+               <milestone unit="verse" n="4.1"/>
+               Ainsi, que les gens nous considèrent comme les serviteurs du Christ et les trésoriers des secrets de Dieu.
+               <milestone unit="verse" n="4.2"/>
+               Ici, il convient que, parmi les trésoriers, l’homme soit trouvé fidèle.
+               <milestone unit="verse" n="4.3"/>
+               Quant à moi, cela m’est peu de chose que je sois jugé par vous ou par tout homme. Mais aussi, moi, je ne me blâme pas moi-même,
+               <milestone unit="verse" n="4.4"/>
+               car je ne connais pas de méchanceté de ma part, mais je ne suis pas justifié par cela, mais celui qui me juge, c’est le Seigneur.
+               <milestone unit="verse" n="4.5"/>
+               Ainsi, ne jugez pas avant le moment, jusqu’à ce que le Seigneur vienne, lui qui aussi mettra en lumière les choses cachées de l’obscurité et rendra manifeste les préoccupations des cœurs, et à ce moment-là, ce sera l’éloge de tout homme de la part de Dieu. 
+               <milestone unit="verse" n="4.6"/>
+               Ces choses-là, frères, je les ai placées en exemple sur moi et Apollos, à cause de vous, afin que vous, en nous, vous appreniez à ne pas penser davantage que ce qui est écrit, pour que personne ne s’élève à cause de quelqu’un au dessus de son prochain.
+               <milestone unit="verse" n="4.7"/>
+               Mais qui est celui qui te met à l’écart ? Quelle chose as-tu que tu n’aies pas reçue ? et si tu l’as reçue, pourquoi te vantes-tu comme si tu ne l’avais pas reçue ? 
+               <milestone unit="verse" n="4.8"/>
+               Vous, depuis un moment déjà, vous étiez rassasiés, vous étiez riches, et sans nous, vous régniez déjà. Puissiez-vous régner, pour que nous régnions aussi nous avec vous!
+               <milestone unit="verse" n="4.9"/>
+               Je pense que nous, les apôtres, Dieu nous a institués en dernier comme les condamnés à la mort, alors que nous sommes devenus un spectacle pour le monde, les anges et les humains.
+               <milestone unit="verse" n="4.10"/>
+               Nous sommes fous à cause du Christ, quant à vous, vous êtes cléments en le Christ ; nous sommes faibles, quant à vous, vous êtes forts ; vous êtes honorés, quant à nous, nous sommes méprisés ;
+               <milestone unit="verse" n="4.11"/>
+               jusqu’à ce moment, nous sommes affamés, assoiffés, nus, et nous sommes méprisés, et nous n’avons pas de place établie. 
+               <milestone unit="verse" n="4.12"/>
+               Et nous nous appliquons quand nous travaillons de nos mains ; et lorsque nous sommes insultés, nous bénissons ; et lorsque nous sommes repoussés, nous persévérons ;
+               
+               
+               <!-- #######################################  folio 106r  ####################################### -->
+               <pb n="106r" xml:id="folio_106r"/>
+               <milestone unit="verse" n="4.13"/>
+               et lorsqu’on nous calomnie, nous demandons ; et nous sommes devenus comme les balayures de ce monde et l’essuie-tout de tous, jusqu’à maintenant.
+               <milestone unit="verse" n="4.14"/>
+               Ce n’est pas pour vous blâmer que je vous écris ceci, mais pour vous avertir comme des fils bien-aimés.
+               <milestone unit="verse" n="4.15"/>
+               Car si vous avez une multitude d’enseignants dans le Christ, [vous n’avez] par contre pas plusieurs pères : dans le Christ Jésus, dans ma prédication de l’évangile, c’est moi je vous ai enfanté.
+               <milestone unit="verse" n="4.16"/>
+               Je veux de votre part que vous me ressembliez.
+               <milestone unit="verse" n="4.17"/>
+               Et à cause de cela, je vous ai envoyé Timothée, qui est mon fils bien-aimé et croyant en le Seigneur, pour vous rappeler mon chemin qui est en le Christ, comme je le promulgue en chaque lieu et dans toutes les églises.
+               <milestone unit="verse" n="4.18"/>
+               Et des gens se sont enorgueillis, comme si je ne venais pas chez vous,
+               <milestone unit="verse" n="4.19"/>
+               mais je viendrai chez vous incessamment si le Seigneur veut, et je ne prendrai connaissance [pas] seulement de toute parole de ceux qui s’enorgueillissent, mais aussi de leur puissance.
+               <milestone unit="verse" n="4.20"/>
+               Car le royaume de Dieu n’est pas en parole, mais en puissance.
+               <milestone unit="verse" n="4.21"/>
+               Or comment aimeriez-vous [que] je vienne, avec le fouet ou avec l’amour et l’esprit aimable ?
+               <milestone unit="verse" n="5.1"/>
+               On a entendu parler parmi vous de fornication, et d’une telle fornication – elle n’est même pas nommée parmi les nations – qui va jusqu’à l’homme prenant la femme de son père.
+               <milestone unit="verse" n="5.2"/>
+               Et vous, vous vous enorgueillissez, et vous ne pleurez pas davantage pour que soit enlevé d’entre vous celui qui fait cet acte.
+               <milestone unit="verse" n="5.3"/>
+               Quant à moi, comme je suis éloigné de vous en corps en étant près de vous en esprit, j’ai déjà mon opinion à propos de celui qui a fait cet acte, comme si j’étais près de vous :
+               <milestone unit="verse" n="5.4"/>
+               au nom de notre Seigneur Jésus le Christ, quand vous serez rassemblés, et aussi mon esprit, avec la puissance de notre Seigneur Jésus,
+               <milestone unit="verse" n="5.5"/>
+               vous livrerez de tels gens à Satan, pour la destruction de leur corps afin que leur esprit 
+               
+               
+               <!-- #######################################  folio 106v  ####################################### -->
+               <pb n="106v" xml:id="folio_106v"/>
+               soit sauvé au jour de notre Seigneur Jésus le Christ.
+               <milestone unit="verse" n="5.6"/>
+               Votre orgueil n’est pas beau ; ne savez-vous pas que peu de levain fait lever toute la pâte ?
+               <milestone unit="verse" n="5.7"/>
+               Purifiez le vieux levain pour devenir une pâte nouvelle, parce que vous êtes comme des pains azymes ; quant à notre Pâque qui a été immolée à cause de nous, c’est le Christ.
+               <milestone unit="verse" n="5.8"/>
+               Célébrons la fête, non pas avec du vieux levain ni avec du levain de méchanceté et d’amertume, mais avec des pains azymes de pureté et de vérité.
+               <milestone unit="verse" n="5.9"/>
+               Je vous ai écrit dans un écrit de ne pas fréquenter les fornicateurs.
+               <milestone unit="verse" n="5.10"/>
+               Je ne dis pas : avec les fornicateurs de ce monde ou avec les voleurs, ou avec les kidnappeurs, ou avec les adorateurs d’idoles ; alors, il vous faudrait vraiment sortir aussi de ce monde.
+               <milestone unit="verse" n="5.11"/>
+               Mais maintenant, du moment que je vous ai écrit de ne pas [les] fréquenter, s’il y a parmi vous quelqu’un qui est appelé frère et qui est fornicateur, ou voleur, ou qui adore les idoles, ou qui blasphème, ou qui est ivrogne, ou rapace : avec celui qui est ainsi, vous ne mangerez pas non plus de pain.
+               <milestone unit="verse" n="5.12"/>
+               Est-ce mon affaire de juger ceux qui sont à l’extérieur ? Mais vous, jugez celui qui est à l’intérieur.
+               <milestone unit="verse" n="5.13"/>
+               Quant à ceux qui sont à l’extérieur, Dieu les jugera, et arrachez le méchant hors de chez vous.
+               <milestone unit="verse" n="6.1"/>
+               Mais l’un de vous a l’insolence, lorsqu’il a une affaire avec son prochain, de l’attaquer en justice devant les pécheurs et non devant les purs ;
+               <milestone unit="verse" n="6.2"/>
+               ou bien ne savez-vous pas que les purs jugent le monde ? Et si c’est par vous que le monde est jugé, n’êtes-vous pas capables de décider du jugement de petits ?
+               <milestone unit="verse" n="6.3"/>
+               Ou bien ne savez-vous pas que nous jugeons les anges, donc combien plus ceux qui sont de ce monde ?
+               <milestone unit="verse" n="6.4"/>
+               Et si vous avez une dispute d’orgueil, ceux qui sont jugés vils dans l’Église, 
+               
+               
+               <!-- #######################################  folio 107r  ####################################### -->
+               <pb n="107r" xml:id="folio_107r"/>
+               établissez-les dans la magistrature.
+               <milestone unit="verse" n="6.5"/>
+               C’est comme reproche que je vous dis cela : ainsi, il n’y a parmi vous pas même un seul homme clément qui puisse réconcilier le frère et son frère,
+               <milestone unit="verse" n="6.6"/>
+               mais le frère attaque en justice son frère et cela aussi devant ceux qui ne croient pas.
+               <milestone unit="verse" n="6.7"/>
+               Or c’est déjà le désaveu pour vous quand vous avez des disputes les uns avec les autres. Pour quelle raison ne subissez-vous pas l’injustice ? Pour quelle raison ne vous laissez-vous pas priver ?
+               <milestone unit="verse" n="6.8"/>
+               Mais vous, vous faites subir l’injustice et vous privez vos frères.
+               <milestone unit="verse" n="6.9"/>
+               Ou bien ne savez-vous pas que les criminels n’héritent pas du royaume de Dieu ? Ne vous égarez pas! Ni les fornicateurs, ni les adorateurs d’idoles, ni les destructeurs, ni les corrompus, ni ceux qui couchent avec des mâles,
+               <milestone unit="verse" n="6.10"/>
+               ni les chapardeurs, ni les voleurs, ni les ivrognes, ni les calomniateurs, ni les ravisseurs n’héritent du royaume de Dieu.
+               <milestone unit="verse" n="6.11"/>
+               Il y a eu de telles choses parmi des gens de chez vous, mais vous avez été lavés, sanctifiés et justifiés par le nom de notre Seigneur Jésus le Christ et par l’esprit de notre Dieu.
+               <milestone unit="verse" n="6.12"/>
+               Toute chose m’est permise mais toute chose n’est pas [utile]. Toute chose m’est permise mais personne n’a de pouvoir sur moi.
+               <milestone unit="verse" n="6.13"/>
+               La nourriture est pour le ventre, et le ventre est pour la nourriture, mais Dieu détruit l’un et l’autre. Quant au corps, il n’est pas pour la fornication mais pour le Seigneur, et le Seigneur pour le corps,
+               <milestone unit="verse" n="6.14"/>
+               et Dieu a ressuscité le Seigneur et nous, il nous ressuscite par sa puissance.
+               <milestone unit="verse" n="6.15"/>
+               Ne savez-vous pas que vos corps sont les membres du Christ ? Est-ce que je prends les membres du Christ et j’en fait des membres pour la prostituée ? Que non !
+               <milestone unit="verse" n="6.16"/>
+               Ou bien ne savez-vous pas que celui qui suit la prostituée, il est un seul corps ? On dit : ils seront les deux un seul corps ;
+               <milestone unit="verse" n="6.17"/>
+               mais celui qui suit le Seigneur,  
+               
+               <!-- #######################################  folio 107v  ####################################### -->
+               <pb n="107v" xml:id="folio_107v"/>
+               il est un seul esprit.
+               <milestone unit="verse" n="6.18"/>
+               Fuyez la fornication ! Tout péché que l’homme fait, c’est seulement à l’extérieur de son corps, mais celui qui fornique, il pèche en son corps.
+               <milestone unit="verse" n="6.19"/>
+               Ou bien ne savez-vous pas que vos corps sont le temple de l’Esprit saint qui est en vous que vous avez reçu de Dieu, et que vous n’êtes pas à vous-même ?
+               <milestone unit="verse" n="6.20"/>
+               Car vous avez été acheté à un prix ; remerciez Dieu en votre corps et en votre esprit qui sont à Dieu.
+               <milestone unit="verse" n="7.1"/>
+               Mais à propos de ce que vous m’avez écrit : il est bon pour l’homme de ne pas approcher une femme.
+               <milestone unit="verse" n="7.2"/>
+               Mais à cause de la fornication, que chaque homme prenne sa femme, que chaque femme prenne son ami,
+               <milestone unit="verse" n="7.3"/>
+               et que l’homme fasse pour son amie ce qu’il lui faut faire, et de même aussi la femme pour l’homme.
+               <milestone unit="verse" n="7.4"/>
+               La femme, elle ne gouverne pas son corps, mais c’est son ami, de même aussi, l’homme ne gouverne pas son corps, mais c’est son amie.
+               <milestone unit="verse" n="7.5"/>
+               Ne vous abstenez pas l’un de l’autre, sauf dans un réconfort mutuel, pour peu de temps pour vous adonnez au jeûne et à la prière, et à nouveau vous reviendrez l’un vers l’autre pour que le Satan ne vous tente pas à cause de votre impatience.
+               <milestone unit="verse" n="7.6"/>
+               Je dis cela comme miséricorde, non comme ordre.
+               <milestone unit="verse" n="7.7"/>
+               Je voudrais que tous les hommes soient comme moi, mais chaque homme a un don de Dieu, les uns ainsi et les autres autrement.
+               <milestone unit="verse" n="7.8"/>
+               Mais je dis à ceux qui n’ont pas de femmes et aux veuves : il est bien pour eux qu’ils restent comme moi,
+               <milestone unit="verse" n="7.9"/>
+               mais s’ils ne le supportent pas, qu’ils se marient ; le mariage est plus utile que de brûler de convoitise.
+               <milestone unit="verse" n="7.10"/>
+               Quant à ceux qui 
+               
+               <!-- #######################################  folio 108r  ####################################### -->
+               <pb n="108r" xml:id="folio_108r"/>
+               sont déjà mariés, je leur prescris, non pas moi mais le Seigneur : que la femme ne quitte pas son ami.
+               <milestone unit="verse" n="7.11"/>
+               et si elle l’a quitté, qu’elle reste dans le célibat ou qu’elle cherche à plaire à son ami, et que l’homme ne répudie pas son amie.
+               <milestone unit="verse" n="7.12"/>
+               Au reste des gens, je dis, moi, non le Seigneur : si un frère a une femme qui n’est pas croyante et qui souhaite habiter avec lui, qu’il ne la répudie pas,
+               <milestone unit="verse" n="7.13"/>
+               et la femme qui a un mari qui n’est pas croyant et qui souhaite vivre avec elle, qu’elle n’abandonne pas son ami.
+               <milestone unit="verse" n="7.14"/>
+               En vérité, l’homme qui ne croit pas est sanctifié en la femme croyante et la femme qui ne croit pas est sanctifiée en l’homme croyant, sinon leurs fils seraient alors impurs, mais maintenant ils sont purs.
+               <milestone unit="verse" n="7.15"/>
+               Et si c’est celui qui ne croit pas qui se sépare, qu’il se sépare, il n’y a sur le frère ou une sœur d’autorité en rien venant de ceux-là ; Dieu nous a appelés à la paix.
+               <milestone unit="verse" n="7.16"/>
+               Qu’en sais-tu, ô femme, si tu sauves ton mari ou qu’en sais-tu, ô homme, si tu sauves ta femme ?
+               <milestone unit="verse" n="7.17"/>
+               Mais que chacun comme Dieu lui a distribué, et chacun comme le Seigneur l’a appelé, se comporte ainsi, et cela je le prescris aussi à toutes les Églises.
+               <milestone unit="verse" n="7.18"/>
+               Si un homme a été appelé en étant circoncis, qu’il ne retourne pas à l’incirconcision, et si un homme a été appelé en étant dans l’incirconcision, qu’il ne se fasse pas circoncire,
+               <milestone unit="verse" n="7.19"/>
+               car la circoncision n’est rien, ni l’incirconcision, mais [ce qui importe, c’est] l’observance dans les commandements de Dieu.
+               <milestone unit="verse" n="7.20"/>
+               Que chaque homme reste dans l’appel dans lequel il a été appelé ;
+               <milestone unit="verse" n="7.21"/>
+               si tu as été appelé étant esclave, que cela ne t’afflige pas, mais si tu peux devenir libre, mets-toi d’autant plus au service.
+               <milestone unit="verse" n="7.22"/>
+               Quant à celui qui est esclave dans le Seigneur, il est libre pour le Seigneur, 
+               
+               
+               <!-- #######################################  folio 108v  ####################################### -->
+               <pb n="108v" xml:id="folio_108v"/>
+               ou ainsi celui qui a été appelé en étant libre, il est esclave pour le Christ.
+               <milestone unit="verse" n="7.23"/>
+               Vous avez été achetés à un prix, ne devenez pas esclaves des hommes.
+               <milestone unit="verse" n="7.24"/>
+               Que chaque homme, dans l’état dans lequel il a été appelé, frères, qu’il y demeure devant Dieu.
+               <milestone unit="verse" n="7.25"/>
+               Quant à la virginité, un commandement de la part de Dieu, je n’en ai pas, mais je donne mon avis parce que Dieu m’a fait la grâce d’être croyant.
+               <milestone unit="verse" n="7.26"/>
+               Je pense que cela est bon à cause de la violence de ce siècle, il est meilleur pour l’homme d’être ainsi.
+               <milestone unit="verse" n="7.27"/>
+               Es-tu lié à la femme ? Ne veuille [te] délier. N’es-tu pas pas lié à la femme ? Ne veuille pas de femme.
+               <milestone unit="verse" n="7.28"/>
+               Si tu te maries, tu ne pèches pas, et si une vierge se marie, elle ne pèche pas. La violence est dans le corps pour ceux qui sont ainsi, mais moi, je vous protège.
+               <milestone unit="verse" n="7.29"/>
+               Et je dis ceci, ô frères : le temps s’est déjà aggravé ; ceux qui ont des femmes, qu’ils soient comme s’ils n’en avaient pas,
+               <milestone unit="verse" n="7.30"/>
+               ceux qui sont tristes comme s’ils n’étaient pas tristes, ceux qui sont joyeux comme s’ils n’étaient pas joyeux, et ceux qui achètent comme s’ils ne possédaient pas,
+               <milestone unit="verse" n="7.31"/>
+               et ceux qui [possèdent] dans ce monde, que leur possession ne soit pas davantage que la nécessité, car en vérité, elle passe l’apparence de ce monde.
+               <milestone unit="verse" n="7.32"/>
+               Et je vous demande quant à vous que vous soyez dans la quiétude ; celui qui n’a pas de femme se soucie des choses du Seigneur, comment plaire au Seigneur,
+               <milestone unit="verse" n="7.33"/>
+               et celui qui est déjà marié, il se soucie des choses d’ici-bas, comment plaire à sa femme.
+               <milestone unit="verse" n="7.34"/>
+               Il y a une séparation entre la femme et la vierge : celle qui n’a pas de mari se soucie des choses du Seigneur afin d’être pure dans le corps et dans l’esprit, quant à la mariée, elle se soucie des choses d’ici-bas, comment plaire à son ami.
+               <milestone unit="verse" n="7.35"/>
+               Je dis cela pour votre intérêt à vous et non pas pour vous traiter durement,  
+               
+               
+               <!-- #######################################  folio 109r  ####################################### -->
+               <pb n="109r" xml:id="folio_109r"/>
+               
+               mais pour que vous soyez dans une bonne forme et demeurant auprès du Seigneur, sans peur ici-bas.
+               <milestone unit="verse" n="7.36"/>
+               Si un homme pense qu’il se déshonore envers sa vierge, que sa claustration (à elle) s’est prolongée, alors qu’il ne lui a pas uni un homme et qu’il convient de la marier – ce qu’il a voulu, qu’il le fasse, il ne pèche pas, qu’il la marie.
+               <milestone unit="verse" n="7.37"/>
+               Mais celui qui a fermement établi dans son cœur – alors que cela ne lui est pas pénible, qu’il est maître dans sa volonté et que cela, il l’a tranché dans son cœur – de garder sa vierge, il fait très bien.
+               <milestone unit="verse" n="7.38"/>
+               Et celui qui donne sa fille en mariage fait bien, et celui qui ne [la] donne pas en mariage fait encore mieux.
+               <milestone unit="verse" n="7.39"/>
+               La femme est liée par la loi tant que son mari est vivant, or si son mari meurt, elle est libre d’être mariée à qui elle veut, mais que ce soit dans le Seigneur seulement.
+               <milestone unit="verse" n="7.40"/>
+               Mais heureuse est-elle si elle demeure ainsi selon mon désir ; je pense aussi que l’Esprit de Dieu est en moi.
+               <milestone unit="verse" n="8.1"/>
+               Mais à propos du sacrifice aux idoles, nous savons qu’il y a en chacun de nous une connaissance, et la connaissance se glorifie mais l’amour édifie.
+               <milestone unit="verse" n="8.2"/>
+               Si quelqu’un pense connaître quelque chose, il ne connaît pas comme il lui faut connaître,
+               <milestone unit="verse" n="8.3"/>
+               et si quelqu’un aime Dieu, celui-ci est connu de lui.
+               <milestone unit="verse" n="8.4 "/>
+               Donc, à propos de la consommation du sacrifice aux idoles, nous savons déjà que les idoles ne sont rien dans le monde et qu’il n’y a pas un autre Dieu qu’un unique [Dieu],
+               <milestone unit="verse" n="8.5"/>
+               et si elles sont appelées dieux, soit dans le ciel, soit sur la terre – de même qu’il y a de nombreux dieux et de nombreux seigneurs –,
+               <milestone unit="verse" n="8.6"/>
+               mais pour nous, l’unique c’est Dieu le Père, à partir de qui tout est et en qui nous sommes, et l’unique Seigneur, c’est Jésus le Christ, par qui tout est et par qui nous sommes.
+               <milestone unit="verse" n="8.7"/>
+               Mais la connaissance n’a pas été affermie en tout homme ; certains sont jusqu’à maintenant dans une pratique idolâtre, comme si c’est le sacrifice aux idoles qu’ils mangent, et leur conscience qui est faible est salie.
+             
+               <!-- #######################################  folio 109v  ####################################### -->
+               <pb n="109v" xml:id="folio_109v"/>
+               <milestone unit="verse" n="8.8"/>
+               Quant à la nourriture, elle ne nous élève pas face à Dieu, parce que nous, si nous mangeons, nous ne sommes pas augmentés, et non plus, si nous ne mangeons pas, nous ne sommes pas diminués.
+               <milestone unit="verse" n="8.9"/>
+               Prenez garde que votre pouvoir ne devienne un écueil pour les faibles.
+               <milestone unit="verse" n="8.10"/>
+               Car, en vérité, si quelqu’un te voit, toi, celui qui a la connaissance, lorsque tu es accoudé dans la maison des idoles, sa conscience, parce qu’elle est faible, ne va-t-elle pas être consolidée dans la consommation du sacrifice aux idoles ?
+               <milestone unit="verse" n="8.11"/>
+               Et le frère faible se perd par ta connaissance, lui pour qui le Christ est mort.
+               <milestone unit="verse" n="8.12"/>
+               Or si vous faites ainsi quelque chose d’illicite contre vos frères et que vous blessez la conscience des faibles : vous péchez contre le Christ.
+               <milestone unit="verse" n="8.13"/> 
+               A cause de cela, si la nourriture scandalise mon frère, pour toujours, je ne mangerai pas de viande afin de ne pas scandaliser mon frère.
+               <milestone unit="verse" n="9.1"/>
+               Ne suis-je pas un envoyé ? Ou ne suis-je pas libre ? N’ai-je pas vu Jésus le Christ notre Seigneur ? N’êtes-vous pas mon œuvre dans le Seigneur ?
+               <milestone unit="verse" n="9.2"/>
+               Et si je ne suis pas envoyé pour les autres, je suis toutefois envoyé pour vous. Le sceau de mon apostolat, c’est que vous êtes dans le Seigneur,
+               <milestone unit="verse" n="9.3"/>
+               et mon excuse pour ceux qui me prennent à partie, la voici :
+               <milestone unit="verse" n="9.4"/>
+               Est-ce que nous n’avons pas l’autorité de manger et de boire ?
+               <milestone unit="verse" n="9.5"/>
+               Ou n’avons-nous pas l’autorité que la sœur, qui est une femme, circule avec nous comme les autres apôtres, les frères de notre Seigneur et Pierre ?
+               <milestone unit="verse" n="9.6"/>
+               Ou moi et Barnabé, sommes-nous seuls à ne pas avoir l’autorité de ne pas travailler ?
+               <milestone unit="verse" n="9.7"/>
+               Or qui est cavalier à ses propres frais ? Et qui plante une vigne et ne mange pas de son fruit ? Ou qui fait paître le troupeau de moutons et ne mange pas du lait de son troupeau ?
+               <milestone unit="verse" n="9.8"/>
+               Pourquoi ? Est-ce que je parle comme les humains ou bien la loi ne dit-elle pas aussi cela ?
+               <milestone unit="verse" n="9.9"/>
+               Dans la loi de Moïse, il est écrit : ne muselle pas un bœuf qui foule le blé. 
+               
+               
+               <!-- #######################################  folio 110r  ####################################### -->
+               <pb n="110r" xml:id="folio_110r"/>
+               
+               Pourquoi ? Dieu a-t-il eu pitié des bœufs ?
+               <milestone unit="verse" n="9.10"/>
+               Ou est-ce à cause de nous qu’il a dû dire cela ? C’est à cause de nous que cela a été écrit en vérité, parce qu’il faut que, dans l’espérance, le semeur sème et que celui qui foule [le fasse] dans l’espérance du fruit.
+               <milestone unit="verse" n="9.11"/>
+               Or si nous avons semé en vous les choses spirituelles, est-ce énorme si nous récoltons vos biens corporels ?
+               <milestone unit="verse" n="9.12"/>
+               Et si d’autres ont autorité sur vous, n’en est-il pas de même pour nous à plus forte raison ? Cependant nous n’avons pas utilisé cette autorité, mais nous supportons toute chose, pour que nous ne fassions obstacle en rien à l’annonce de la bonne nouvelle de l’évangile du Christ.
+               <milestone unit="verse" n="9.13"/>
+               Ne savez-vous pas que ceux qui travaillent au sanctuaire mangent [les produits] du sanctuaire, et ceux qui sont à l’autel prennent part à l’autel ?
+               <milestone unit="verse" n="9.14"/>
+               Ainsi notre Seigneur a aussi recommandé que ceux qui prêchent la bonne nouvelle vivent de la bonne nouvelle.
+               <milestone unit="verse" n="9.15"/>
+               Quant à moi, je n’ai rien demandé de cela et je n’ai pas écrit par ces propos que je veux quelque chose de cela, il vaut mieux pour moi que je meure plutôt que quelqu’un mette en échec ma fierté.
+               <milestone unit="verse" n="9.16"/>
+               Or si j’annonce la bonne nouvelle, je n’en ai pas de fierté, car cela m’est un devoir ; quel dommage pour moi si je n’annonçais pas la bonne nouvelle !
+               <milestone unit="verse" n="9.17"/>
+               Or si je faisais cela de ma propre volonté, j’aurais un salaire, et si ce n’est pas de ma volonté, alors c’est qu’il m’est confirmé que c’est la charge de Dieu.
+               <milestone unit="verse" n="9.18"/>
+               Mais quel est mon salaire ? C’est quand je prêche gratuitement la bonne nouvelle de l’évangile du Christ, alors que je n’utilise pas l’autorité qui est la mienne en l’évangile.
+               <milestone unit="verse" n="9.19"/>
+               Or voici qu’en étant libre à l’égard de tous, je me suis asservi moi-même à tous, afin d’en gagner beaucoup, 
+               <milestone unit="verse" n="9.20"/>
+               et j’ai été pour les juifs comme le juif, pour gagner les juifs, et pour ceux qui sont sous la loi, comme celui qui est sous la loi – alors que moi, je ne suis pas sous la loi –, afin de gagner ceux qui sont sous la loi,
+               <milestone unit="verse" n="9.21"/>
+               et pour ceux sont sans loi, comme un sans-loi, alors que je ne suis pas sans la loi de Dieu mais dans
+               
+               <!-- #######################################  folio 110v  ####################################### -->
+               <pb n="110v" xml:id="folio_110v"/>
+               
+               la loi du Christ, afin de gagner ceux qui n’ont pas de loi ;
+               <milestone unit="verse" n="9.22"/>
+               j’ai été pour les faibles comme un faible, pour gagner les faibles ; pour tous j’ai été toute chose, afin de sauver des gens.
+               <milestone unit="verse" n="9.23"/>
+               Et tout cela, je le fais pour l’annonce de la bonne nouvelle de l’évangile, afin d’être un ministre pour lui.
+               <milestone unit="verse" n="9.24"/>
+               Ne savez-vous pas que ceux qui courent sur la piste, ils courent tous, mais un seul est celui qui atteint la victoire ? Courez pour l’atteindre !
+               <milestone unit="verse" n="9.25"/>
+               Or tous ceux qui luttent persévèrent en toute chose, mais ceux-ci obtiennent une couronne qui passe, quant à nous, une couronne qui ne passe pas.
+               <milestone unit="verse" n="9.26"/>
+               Quant à moi, ainsi je cours, non pas à la suite d’une chose inconnue, et ainsi je lutte, non pas comme celui qui frappe le vent,
+               <milestone unit="verse" n="9.27"/>
+               mais j’humilie mon corps et je le soumets, de peur que moi qui ai annoncé la bonne nouvelle à d’autres, je sois rejeté.
+               <milestone unit="verse" n="10.1"/>
+               Je veux que vous sachiez, ô frères : nos pères étaient tous sous la nuée et ils ont tous traversé la mer,
+               <milestone unit="verse" n="10.2"/>
+               et ils ont tous été baptisés par le biais de Moïse dans la nuée et dans la mer,
+               <milestone unit="verse" n="10.3"/>
+               et ils ont tous mangé une même nourriture spirituelle,
+               <milestone unit="verse" n="10.4"/>
+               et ils ont tous bu une même boisson spirituelle ; ils buvaient au rocher spirituel qui allait avec eux et le rocher, c’est le Christ.
+               <milestone unit="verse" n="10.5"/>
+               Mais de la majeure partie d’entre eux, Dieu ne fut pas satisfait puisqu’ils tombèrent dans le désert.
+               <milestone unit="verse" n="10.6"/>
+               Ces événements ont eu lieu pour l’exemple afin que nous ne désirions pas les mauvaises choses, comme ce qu’ils ont désiré, eux.
+               <milestone unit="verse" n="10.7"/>
+               Ν’adorons pas non plus les idoles comme certains parmi eux [les] ont adorées, comme il est écrit : le peuple s’est assis pour manger et boire et il se leva pour s’amuser.
+               
+               
+               <!-- #######################################  folio 111r  ####################################### -->
+               <pb n="111r" xml:id="folio_111r"/>
+               
+               Et ne nous parjurons pas non plus comme certains parmi eux se sont parjurés – et en un jour, il en tomba vingt quatre mille.
+               <milestone unit="verse" n="10.9"/>
+               Et ne mettons pas non plus à l’épreuve le Christ, comme certains d’entre eux l’ont mis à l’épreuve – et les serpents les ont anéantis.
+               <milestone unit="verse" n="10.10"/>
+               Et ne discutez pas non plus, comme certains d’entre eux ont discuté : ils périrent par la main du corrupteur.
+               <milestone unit="verse" n="10.11"/>
+               Cela leur est arrivé en exemple et a été écrit pour notre exhortation ; la fin des temps nous est parvenue.
+               <milestone unit="verse" n="10.12"/>
+               Or maintenant, celui qui pense être debout, qu’il prenne garde de ne pas tomber.
+               <milestone unit="verse" n="10.13"/>
+               L’épreuve ne vous arrive pas, sauf à la mesure des humains ; Dieu est fidèle, il ne vous laissera pas être éprouvés au delà de votre capacité, mais, avec l’épreuve, il crée aussi une issue, afin que vous puissiez persévérer.
+               <milestone unit="verse" n="10.14"/>
+               A cause de cela, ô bien aimés, fuyez l’adoration des idoles.
+               <milestone unit="verse" n="10.15"/>
+               Je parle comme à ceux qui sont cléments ; jugez vous-même ce que je dis.
+               <milestone unit="verse" n="10.16"/>
+               La coupe de remerciement que nous bénissons, n’est-elle pas ministre du sang du Christ ? Et le pain que nous partageons, n’est-il pas ministre du corps du Seigneur ?
+               <milestone unit="verse" n="10.17"/>
+               Puisqu’il y a un seul pain, nous sommes un seul corps et même si nous sommes nombreux, tous, nous prenons un seul pain.
+               <milestone unit="verse" n="10.18"/>
+               Regardez Israël qui est par le corps : n’est-ce pas ceux qui mangent la viande des sacrifices qui sont ministres de l’autel ?
+               <milestone unit="verse" n="10.19"/>
+               Or que dis-je ? Les idoles sont-elles considérées comme étant quelque chose, ou la viande des sacrifices aux idoles est-elle quelque chose ?
+               <milestone unit="verse" n="10.20"/>
+               Mais ce que les païens sacrifient, ils le sacrifient aux démons et non à Dieu, or je ne veux pas que vous soyez ministres des démons.
+               <milestone unit="verse" n="10.21"/>
+               Or vous ne pouvez pas boire la coupe du Seigneur et la coupe des démons, et vous ne pouvez pas être présents à la table du Seigneur et à la table des démons.
+               <milestone unit="verse" n="10.22"/>
+               Ou bien est-ce que nous rendons le Seigneur jaloux ? 
+               
+               <!-- #######################################  folio 111v  ####################################### -->
+               <pb n="111v" xml:id="folio_111v"/>
+               
+               Ou est-ce que nous sommes plus forts que lui ?
+               <milestone unit="verse" n="10.23"/>
+               Tout m’est permis mais tout n’est pas utile, tout m’est permis mais tout n’édifie pas.
+               <milestone unit="verse" n="10.24"/>
+               Que personne ne veuille pour lui-même, mais aussi pour son prochain.
+               <milestone unit="verse" n="10.25"/>
+               Tout ce qui est vendu au marché, mangez-en sans [faire de] scandale, pour raison de conscience.
+               <milestone unit="verse" n="10.26"/>
+               Au Seigneur est la terre et ce qui la remplit.
+               <milestone unit="verse" n="10.27"/>
+               Si un homme qui n’est pas croyant vous invite et que vous voulez aller avec lui, mangez tout ce qui vous est offert et ne posez pas de question à ce propos, pour raison de conscience.
+               <milestone unit="verse" n="10.28"/>
+               Mais si quelqu’un vous dit qu’il s’agit de viande des sacrifices aux idoles, n’en mangez pas, à cause de celui qui vous a averti et pour raison de conscience.
+               <milestone unit="verse" n="10.29"/>
+               La conscience dont je parle, ce n’est pas ma conscience mais la conscience d’un autre ; pour quelle raison ma liberté est-elle jugée selon une conscience autre ?
+               <milestone unit="verse" n="10.30"/>
+               Si je fais cela en rendant grâce, pourquoi médit-on contre moi au nom de la chose pour laquelle je suis reconnaissant ? 
+               <milestone unit="verse" n="10.31"/>
+               Quoi que vous mangiez, quoi que vous buviez, quoi que vous fassiez, faites tout cela pour que cela glorifie Dieu,
+               <milestone unit="verse" n="10.32"/>
+               et ne soyez une cause de scandale ni pour les juifs, ni pour les païens, ni pour l’Église de Dieu.
+               <milestone unit="verse" n="10.33"/>
+               De même, moi, je contente aussi tout le monde en tout, en ne voulant rien pour mon intérêt mais ce qui est utile au grand nombre afin qu’ils vivent.
+               <milestone unit="verse" n="11.1"/>
+               Imitez-moi comme moi aussi [j’imite] le Christ.
+               <milestone unit="verse" n="11.2"/>
+               Je vous loue, ô frères, parce qu’en toute chose, vous vous rappelez de moi et que, comme je vous les ai transmis, vous retenez les commandements.
+               <milestone unit="verse" n="11.3"/>
+               Je veux de vous que vous sachiez : la tête de tout homme, c’est le Christ et la tête de la femme, c’est l’homme, et la tête du Christ, c’est Dieu.
+               <milestone unit="verse" n="11.4"/>
+               Tout homme qui prie ou prophétise quand sa tête est couverte, 
+               
+               <!-- #######################################  folio 112r  ####################################### -->
+               <pb n="112r" xml:id="folio_112r"/>
+               
+               il déshonore sa tête,
+               <milestone unit="verse" n="11.5"/>
+               et toute femme qui prie ou prophétise quand sa tête est découverte, elle déshonore sa tête ; elle est exactement comme celle dont la tête est rasée.
+               <milestone unit="verse" n="11.6"/>
+               Si une femme ne couvre pas sa tête, qu’elle la tonde ! Mais s’il est disgracieux pour la femme de tondre sa tête ou de la raser, qu’elle soit couverte.
+               <milestone unit="verse" n="11.7"/>
+               Quant à l’homme, il ne lui faut pas couvrir sa tête, parce qu’il est à l’image de Dieu et sa gloire ; quant à la femme, elle est seulement la gloire de l’homme.
+               <milestone unit="verse" n="11.8"/>
+               Car l’homme n’est pas à partir de la femme, mais la femme à partir de l’homme,
+               <milestone unit="verse" n="11.9"/>
+               et l’homme n’a pas non plus été créé pour la femme, mais la femme pour l’homme.
+               <milestone unit="verse" n="11.10"/>
+               A cause de cela, il est impératif pour la femme qu’il y ait sur sa tête une autorité, à cause des anges.
+               <milestone unit="verse" n="11.11"/>
+               Mais il n’y a pas d’homme sans femme, ni de femme sans homme dans le Seigneur,
+               <milestone unit="verse" n="11.12"/>
+               et de même que la femme vient de l’homme, ainsi aussi l’homme est par la femme, et toute chose vient de Dieu.
+               <milestone unit="verse" n="11.13"/>
+               Jugez entre vous et en vous-même : est-ce bien pour la femme quand sa tête est découverte de prier Dieu ?
+               <milestone unit="verse" n="11.14"/>
+               Ou bien l’usage ne vous enseigne-t-il pas aussi que l’homme, quand il relâche ses cheveux, c’est pour lui une cause de déception (vis-à-vis des autres).
+               <milestone unit="verse" n="11.15"/>
+               Quant à la femme, quand elle relâche ses cheveux, c’est une louange pour elle, la longueur des cheveux lui a été donnée en remplacement d’un vêtement.
+               <milestone unit="verse" n="11.16"/>
+               Et si quelqu’un discute ces choses-ci, nous n’avons pas une telle pratique, ni nos communautés, qui sont de Dieu.
+               <milestone unit="verse" n="11.17"/>
+               C’est ce que je recommande. Je ne vous loue pas à ce propos, car vous vous réunissez non pour ce qui est utile mais pour la perte :
+               <milestone unit="verse" n="11.18"/>
+               un première chose, lorsque vous êtes réunis en Église, j’entends dire qu’il y a désaccord parmi vous, et je le crois en partie.
+               <milestone unit="verse" n="11.19"/>
+               Il 
+               
+<!-- #######################################  folio 112v  ####################################### -->
+               <pb n="112v" xml:id="folio_112v"/>
+               se trouve aussi qu’il y aura entre vous querelle et cela pour que ceux qui parmi vous sont éprouvés soient connus.
+               <milestone unit="verse" n="11.20"/>
+               Lorsque que vous vous réunissez tous ensemble, le souci de votre repas, ce n’est pas la Cène,
+               <milestone unit="verse" n="11.21"/>
+               mais chacun se hâte vers son repas puis son souper ; l’un est affamé et l’autre est ivre.
+               <milestone unit="verse" n="11.22"/>
+               Pourquoi ? N’avez-vous pas de maisons pour y manger et y boire ? Ou bien faites-vous peu de cas de l’Église de Dieu et faites-vous affront à ceux qui n’ont rien ? Que vous dire ? Vous féliciter à ce propos ? Je ne vous félicite pas !
+               <milestone unit="verse" n="11.23"/>
+               Quant à ce que j’ai reçu du Seigneur, c’est ce que je vous ai aussi transmis : notre Seigneur Jésus, cette nuit durant laquelle il fut livré, prit du pain
+               <milestone unit="verse" n="11.24"/>
+               et quand il eut rendu grâce, il le brisa et dit : ceci est mon corps qui est rompu pour vous, faites ceci en mémoire de moi.
+               <milestone unit="verse" n="11.25"/>
+               Et ainsi aussi, après qu’il eut mangé, il leur donna la coupe et dit : cette coupe, c’est la nouvelle alliance en mon sang, faites ceci quand vous buvez en mémoire de moi
+               <milestone unit="verse" n="11.26"/>
+               Et à chaque fois que vous mangez ce pain et buvez cette coupe, vous annoncez la bonne nouvelle de la mort de notre Seigneur jusqu’à sa venue.
+               <milestone unit="verse" n="11.27"/>
+               Dès lors, celui qui mange le pain ou boit la coupe du Seigneur comme quelqu’un qui ne gratifie pas le Seigneur, il est coupable envers le corps et le sang du Seigneur.
+               <milestone unit="verse" n="11.28"/>
+               Que l’homme s’examine lui-même, et ensuite à ce moment-là, qu’il mange du pain et boive la coupe.
+               <milestone unit="verse" n="11.29"/>
+               Mais celui qui mange et boit comme il ne faut pas, c’est la condamnation contre lui-même qu’il mange et qu’il boit au moment où il n’a pas distingué le corps du Seigneur.
+               <milestone unit="verse" n="11.30"/>
+               C’est pour cela qu’il y a parmi vous beaucoup de faibles et de malades, et beaucoup de morts. 
+               
+               
+<!-- #######################################  folio 113r  ####################################### -->
+               <pb n="113r" xml:id="folio_113r"/>
+               <milestone unit="verse" n="11.31"/>
+               Si nous nous jugions nous-même, nous ne serions pas jugés,
+               <milestone unit="verse" n="11.32"/>
+               mais lorsque que nous sommes jugés par le Seigneur, nous sommes avertis afin que nous ne soyons pas condamnés avec le monde.
+               <milestone unit="verse" n="11.33"/>
+               Maintenant, ô frères, quand vous vous réunissez pour manger, attendez-vous les uns les autres, 
+               <milestone unit="verse" n="11.34"/>
+               et si quelqu’un de vous a faim, qu’il mange à la maison afin que vous ne vous réunissiez pas pour la condamnation ; quant au reste, quand je viendrai, je vous donnerai des recommandations.
+               <milestone unit="verse" n="12.1"/>
+               Pour les choses spirituelles, ô frères, je ne veux pas que vous ne perceviez pas.
+               <milestone unit="verse" n="12.2"/>
+               Vous savez que vous étiez menés vers les idoles qui n’ont pas de voix, comme si elles vous menaient.
+               <milestone unit="verse" n="12.3"/>
+               A cause de cela, je vous apprends que personne ne parle par l’esprit de Dieu et dit : anathème soit Jésus ! et personne ne peut dire non plus que Jésus est le Seigneur, si ce n’est par l’Esprit saint.
+               <milestone unit="verse" n="12.4"/>
+               Il y a répartition des dons, et ils sont nombreux, mais l’Esprit est un ;
+               <milestone unit="verse" n="12.5"/>
+               et il y répartition des services, et ils sont nombreux, mais le Seigneur est un ;
+               <milestone unit="verse" n="12.6"/>
+               et il y a répartition des actions, et elles sont nombreuses, mais Dieu qui accomplit tout en tout est un.
+               <milestone unit="verse" n="12.7"/>
+               Mais à chacun est donnée la manifestation de l’Esprit comme il convient.
+               <milestone unit="verse" n="12.8"/>
+               Donc, parmi eux, à l’un il est donné par l’Esprit la parole de la sagesse et à un autre il est donné la parole de la connaissance par l’Esprit,
+               <milestone unit="verse" n="12.9"/>
+               et à un autre une foi par l’Esprit, et à un autre les dons de guérison par l’Esprit,
+               <milestone unit="verse" n="12.10"/>
+               et à l’autre les pratiques miraculeuses, à un autre la prophétie, à un autre le discernement des esprits, à un autre les différentes sortes de langues, à un autre l’interprétation des langues ;
+               <milestone unit="verse" n="12.11"/>
+               mais toutes ces choses, le seul qui les fait, c’est l’Esprit seul, qui distribue à tous séparément, selon sa volonté.
+               <milestone unit="verse" n="12.12"/>
+               De la même manière que le corps est un et qu’il y a en lui plusieurs membres et que tous les membres
+               
+<!-- #######################################  folio 113v  ####################################### -->
+               <pb n="113v" xml:id="folio_113v"/>
+               du corps, alors qu’ils sont nombreux, sont toutefois un seul corps : ainsi aussi [est] le Christ.
+               <milestone unit="verse" n="12.13"/>
+               Et nous aussi, tous par un seul Esprit pour un seul corps, nous avons été baptisés, étant juifs, païens, esclaves ou libres, et nous tous, nous avons bu à une seule coupe.
+               <milestone unit="verse" n="12.14"/>
+               Et de même, le corps n’est pas un seul membre mais plusieurs.
+               <milestone unit="verse" n="12.15"/>
+               Si le pied disait : puisque je ne suis pas une main, je ne fais pas partie du corps !, ce n’est pas, pour cela, qu’il ne ferait pas partie du corps.
+               <milestone unit="verse" n="12.16"/>
+               Et si l’oreille disait : puisque je ne suis pas un œil, je ne fais pas partie du corps !, ce n’est pas, pour cela, qu’elle ne ferait pas partie du corps.
+               <milestone unit="verse" n="12.17"/>
+               Et si le corps tout entier était des yeux, où serait l’ouïe ? Si le corps tout entier était l’ouïe, où serait l’odorat ?
+               <milestone unit="verse" n="12.18"/>
+               Quant à Dieu, il a placé chacun des membres dans le corps comme il le désirait.
+               <milestone unit="verse" n="12.19"/>
+               Et si tous étaient un seul membre, où serait le corps ?
+               <milestone unit="verse" n="12.20"/>
+               Mais maintenant, il y a plusieurs membres et le corps est un.
+               <milestone unit="verse" n="12.21"/>
+               L’œil ne peut pas dire à la main : je n’ai pas besoin de toi !, ni la tête dire aux pieds : je n’ai pas besoin de vous !
+               <milestone unit="verse" n="12.22"/>
+               Mais de plus les membres du corps qui sont considérés comme faibles, ce sont eux dont nous avons davantage besoin,
+               <milestone unit="verse" n="12.23"/>
+               et ceux qui sont considérés comme méprisables dans le corps, à ceux-là, nous donnons plus d’honneur, et à ceux qui sont nos parties sexuelles, nous leur donnons un rang supérieur.
+               <milestone unit="verse" n="12.24"/>
+               Quant à ceux qu’on estime honorables, ils n’ont pas besoin de notre honneur, mais Dieu a disposé le corps et il a donné le plus grand honneur au membre méprisable,
+               <milestone unit="verse" n="12.25"/>
+               afin 
+               
+<!-- #######################################  folio 114r  ####################################### -->
+               <pb n="114r" xml:id="folio_114r"/>
+               qu’il n’y ait pas de différend dans le corps mais que tous les membres unanimement se soucient les uns des autres.
+               <milestone unit="verse" n="12.26"/>
+               Quand un seul membre souffre, l’ensemble des membres souffre avec lui, et si un seul membre obtient une faveur, l’ensemble des membres se réjouit avec lui.
+               <milestone unit="verse" n="12.27"/>
+               Mais vous, vous êtes le corps du Christ et des membres parmi ses membres.
+               <milestone unit="verse" n="12.28"/>
+               Et Dieu a établi dans l’Église premièrement les apôtres, deuxièmement les prophètes, troisièmement les enseignants, à leur suite les miracles, après cela les dons de guérison, ceux qui portent secours, les intendants et les différentes sortes de langues.
+               <milestone unit="verse" n="12.29"/>
+               Or est-ce qu’ils sont tous apôtres ? Ou sont-ils tous enseignants ? Ou sont-ils tous prophètes ? Ou font-ils tous des miracles ? 
+               <milestone unit="verse" n="12.30"/>
+               Ou est-ce qu’ils ont tous les dons de guérison ? Ou parlent-ils tous en langues ? Ou interprètent-ils tous ?
+               <milestone unit="verse" n="12.31"/>
+               Soyez zélés dans les dons merveilleux et je vous montrerai aussi le chemin excellent et abondant.
+               <milestone unit="verse" n="13.1"/>
+               Si je parle les langues des hommes et des anges, et qu’il n’y a pas d’amour en moi, je suis un cuivre qui résonne et une cymbale dont on entend la voix.
+               <milestone unit="verse" n="13.2"/>
+               Et si j’ai le don de prophétie et que je connais tous les secrets et toute la connaissance, et si j’ai en moi toute la foi jusqu’à en déplacer des montagnes, et qu’il n’y a pas d’amour en moi, je ne suis rien.
+               <milestone unit="verse" n="13.3"/>
+               Et si je donne à manger tous mes biens, et si je livre mon corps à être brûlé, et que l’amour n’est pas en moi, je ne profite de rien.
+               <milestone unit="verse" n="13.4"/>
+               L’amour est stable en esprit, il est bon, l’amour n’envie pas, il n’est pas [troublé], il ne s’élève pas,
+               <milestone unit="verse" n="13.5"/>
+               il ne déçoit pas, il ne veut pas son propre intérêt, il ne s’offusque pas, il ne pense pas à mal,
+               <milestone unit="verse" n="13.6"/>
+               et il ne se réjouit pas du péché 
+<!-- #######################################  folio 114v  ####################################### -->
+               <pb n="114v" xml:id="folio_114v"/>
+               mais se réjouit de la vérité.
+               <milestone unit="verse" n="13.7"/>
+               Il endure toute, il croit tout, il espère tout, il supporte tout.
+               <milestone unit="verse" n="13.8"/>
+               L’amour ne meurt jamais. Quant aux prophéties, elles seront vaines, et les langues se tairont, et la connaissance sera vaine.
+               <milestone unit="verse" n="13.9"/>
+               Nous savons peu de choses et nous prophétisons peu de choses,
+               <milestone unit="verse" n="13.10"/>
+               mais quand la perfection viendra, voilà que le peu sera vain.
+               <milestone unit="verse" n="13.11"/>
+               Lorsque j’était un enfant, je parlais comme l’enfant et je pensais comme l’enfant, quand je suis devenu un homme, j’ai mis fin à ce qui appartient à l’enfant.
+               <milestone unit="verse" n="13.12"/>
+               Maintenant, nous regardons dans un miroir, dans l’image, mais à ce moment-là, ce sera face à face ; maintenant je sais peu de chose, mais à ce moment-là, je saurai, comme j’ai été connu.
+               <milestone unit="verse" n="13.13"/>
+               Or ce qui reste maintenant, c’est la foi, l’espérance et l’amour, ces trois, et le plus grand de ceux-là, c’est l’amour.
+               <milestone unit="verse" n="14.1"/>
+               Recherchez l’amour, soyez zélés en les choses de l’esprit et surtout pour prophétiser.
+               <milestone unit="verse" n="14.2"/>
+               Car celui qui prophétise en langue, il s’adresse non pas aux hommes mais à Dieu et personne ne l’entend puisque, par l’esprit, il parle des secrets.
+               <milestone unit="verse" n="14.3"/>
+               Quant à celui qui prophétise, il parle aux hommes de l’édification, de l’encouragement et du réconfort.
+               <milestone unit="verse" n="14.4"/>
+               Celui qui parle en langue, il s’édifie lui-même et celui qui prophétise, il édifie l’église.
+               <milestone unit="verse" n="14.5"/>
+               Je veux que tous vous parliez en langues et surtout, que vous prophétisiez. Celui qui prophétise est meilleur que celui qui parle en langues, sauf s’il l’interprète afin que l’Église reçoive une édification.
+               <milestone unit="verse" n="14.6"/>
+               Et maintenant, ô frères, si je viens à vous et parle en langues, en quoi vous suis-je utile, si je ne vous parle pas par manifestation, par connaissance, par prophétie ou par enseignement ?
+               <milestone unit="verse" n="14.7"/>
+               Mais les choses qui n’ont pas d’âme 
+<!-- #######################################  folio 115v  ####################################### -->
+               <pb n="115r" xml:id="folio_115r"/>
+               et qui donnent de la voix, que ce soit une flûte ou une harpe, si une distinction n’est pas faite entre les sons, comment sera reconnu ce qui est joué ou ce dont la voix est entendue.
+               <milestone unit="verse" n="14.8"/>
+               Et si le cor répond par une voix qui n’est pas comprise, qui se préparera au combat ? 
+               <milestone unit="verse" n="14.9"/>
+               Et il en est ainsi aussi de vous : si vous ne parlez pas en langue une parole qui est comprise, comment connaîtra-t-on ce qui est dit ? En vérité, vous êtes devenus comme si vous parliez dans le vent.
+               <milestone unit="verse" n="14.10"/>
+               Tous les genres de langues sont dans le monde et rien n’est sans voix.
+               <milestone unit="verse" n="14.11"/>
+               Or si je ne connais pas le pouvoir de la voix, alors je serai pour celui qui parle un étranger, et celui qui parle sera un étranger pour moi.
+               <milestone unit="verse" n="14.12"/>
+               Et ainsi, vous aussi, puisque vous êtes des zélés des choses spirituelles, efforcez-vous d’être utiles à l’édification de l’Église.
+               <milestone unit="verse" n="14.13"/>
+               C’est pourquoi celui qui parle en langue, il prie afin d’interpréter.
+               <milestone unit="verse" n="14.14"/>
+               Car si je prie en langue, mon esprit est celui qui prie, mais mon intelligence, elle est sans fruit.
+               <milestone unit="verse" n="14.15"/>
+               Donc que faire ? Je prierai par l’esprit et je prierai par l’intelligence, je psalmodierai par l’esprit et je psalmodierai aussi par l’intelligence.
+               <milestone unit="verse" n="14.16"/>
+               Sinon, si tu bénis par l’esprit, celui qui est à ta suite, qui occupe la position du faible, comment dira-t-il « Amen » à ton action de grâce, puisque ce que tu dis, il ne le comprend pas.
+               <milestone unit="verse" n="14.17"/>
+               Quant à toi, tu rends très bien grâce, mais ton prochain n’est pas édifié.
+               <milestone unit="verse" n="14.18"/>
+               Je remercie Dieu de parler davantage que vous tous en langues.
+               <milestone unit="verse" n="14.19"/>
+               Mais, dans l’Église, je voudrais dire cinq mots avec mon intelligence pour enseigner aussi aux autres, plutôt que beaucoup de paroles en langue.
+               <milestone unit="verse" n="14.20"/>
+               Ô frères, ne soyez pas des enfants dans votre connaissance, mais soyez des enfants pour le mal ; mais dans votre réflexion, 
+               
+               
+<!-- #######################################  folio 115r  ####################################### -->
+               <pb n="115v" xml:id="folio_115v"/>
+               soyez parfaits.
+               <milestone unit="verse" n="14.21"/>
+               Dans la Loi, il est écrit : Dans la langue autre et par les lèvres autres, je m’adresserai à ce peuple et même ainsi, ils ne m’écouteront pas, [et] dit le Seigneur.
+               <milestone unit="verse" n="14.22"/>
+               Alors, les langues ont été placées comme signe non pas pour les croyants mais pour les non-croyants ; quant à la prophétie, elle n’est pas pour les non-croyants mais pour les croyants.
+               <milestone unit="verse" n="14.23"/>
+               Or si toute l’Église se rassemble ensemble et que tous parlent en langues et qu’il entre des faibles ou des non croyants, ne diront-ils pas que vous vous êtes complètement égarés ?
+               <milestone unit="verse" n="14.24"/>
+               Et si vous prophétisez tous et qu’il entre un homme non-croyant ou un faible, il sera blâmé par vous tous et sera scruté par vous tous,
+               <milestone unit="verse" n="14.25"/>
+               et les secrets de son cœur seront éclairés et ainsi il tombera sur sa face et se prosternera devant Dieu et il dira en vérité : Dieu est parmi vous !
+               <milestone unit="verse" n="14.26"/>
+               Qu’en est-il, ô frères ? Quand vous vous rassemblez, que quelqu’un parmi vous, s’il a un cantique, qu’il [le] récite, s’il a un savoir, un secret, une langue, une interprétation, que toutes ces choses soient seulement pour l’édification.
+               <milestone unit="verse" n="14.27"/>
+               Et si quelqu’un parle en langue, que deux parlent, et si davantage, trois, qu’ils parlent l’un après l’autre et qu’un [autre] interprète,
+               <milestone unit="verse" n="14.28"/>
+               et s’il n’y pas d’interprète, que celui qui parle se taise dans l’Église et qu’il se parle à lui-même et à Dieu.
+               <milestone unit="verse" n="14.29"/>
+               Quant aux prophètes, que deux ou trois parlent, et que les autres éclaircissent.
+               <milestone unit="verse" n="14.30"/>
+               Et si quelque chose est manifesté à celui qui est assis, que le premier se taise.
+               <milestone unit="verse" n="14.31"/>
+               Car vous pouvez l’un après l’autre tous prophétiser [pour] que chacun soit instruit et que chacun soit réconforté.
+               <milestone unit="verse" n="14.32"/>
+               L’esprit des prophètes obéit aux prophètes,
+               <milestone unit="verse" n="14.33"/>
+               parce que 
+               
+               
+<!-- #######################################  folio 116r  ####################################### -->
+               <pb n="116r" xml:id="folio_116r"/>
+               
+               le trouble ne fait pas partie de ce qui appartient à Dieu, mais la paix, de même que dans toutes les assemblées des saints.
+               <milestone unit="verse" n="14.34"/>
+               Quant aux femmes, qu’elles se taisent dans l’Église, il ne convient pas qu’elles parlent mais qu’elles se soumettent, comme la Loi le dit également.
+               <milestone unit="verse" n="14.35"/>
+               Or si elles veulent apprendre quelque chose, que, dans leur maison, elles demandent à leur mari, car il est honteux pour une femme qu’elle parle dans l’Église.
+               <milestone unit="verse" n="14.36"/>
+               Ou est-ce que la parole de Dieu est sortie de chez vous, ou vous est-elle parvenue à vous seulement ?
+               <milestone unit="verse" n="14.37"/>
+               Si quelqu’un pense être prophète ou spirituel, qu’il comprenne ce que je vous écris, ce sont les commandements de notre Seigneur.
+               <milestone unit="verse" n="14.38"/>
+               Et si quelqu’un les ignore, qu’il les ignore.
+               <milestone unit="verse" n="14.39"/>
+               A cause de cela, ô frères, cherchez avec zèle à prophétiser et ne vous retenez pas de parler en langues,
+               <milestone unit="verse" n="14.40"/>
+               mais que tout soit dans le sens de la forme et de la convenance.
+               <milestone unit="verse" n="15.1"/>
+               Je vous ai fait connaître, ô frères, que mon évangile est celui que je vous ai annoncé, celui-là qu’aussi vous avez reçu, dans lequel vous êtes, vous aussi, fermes,
+               <milestone unit="verse" n="15.2"/>
+               et par lequel vous êtes, vous aussi, vivants, si vous gardez la parole par laquelle que je vous [l’]ai annoncé, sinon vous aurez cru en vain.
+               <milestone unit="verse" n="15.3"/>
+               Car, en vérité, je vous ai transmis dès début ce que j’ai aussi reçu : le Christ est mort à cause de nos péchés, comme le disent les Ecritures.
+               <milestone unit="verse" n="15.4"/>
+               Il a été enseveli et il s’est relevé le troisième jour, comme il est écrit.
+               <milestone unit="verse" n="15.5"/>
+               Et il apparut à Pierre, ensuite, après lui, il apparut aux onze.
+               <milestone unit="verse" n="15.6"/>
+               Ensuite, après cela, il apparut à plus de cinq cent frères ensemble, et la grande partie d’entre eux est encore vivante aujourd’hui, mais certains se reposent déjà.
+               <milestone unit="verse" n="15.7"/>
+               Ensuite, il apparut à Jacques, puis, après cela, 
+               
+<!-- #######################################  folio 116v  ####################################### -->
+               <pb n="116v" xml:id="folio_116v"/>
+               à tous les apôtres.
+               <milestone unit="verse" n="15.8"/>
+               Mais, en dernier après tout le monde, comme l’avorton, il apparut à moi aussi.
+               <milestone unit="verse" n="15.9"/>
+               En vérité, je suis le plus faible des apôtres, moi qui ne vaux pas d’être appelé apôtre, parce que j’ai traqué l’Église de Dieu.
+               <milestone unit="verse" n="15.10"/>
+               Mais par le bienfait de Dieu, je suis comme je suis, et sa grâce n’a pas été en moi inutile, mais plus que tous, je me suis fatigué, non pas moi, mais la grâce de Dieu qui est en moi.
+               <milestone unit="verse" n="15.11"/>
+               Que cela soit moi ou eux, ainsi nous prêchons et ainsi vous avez cru.
+               <milestone unit="verse" n="15.12"/>
+               Or s’il est prêché que le Christ s’est relevé d’entre les morts, comment certains d’entre vous disent-ils qu’il n’y a pas de résurrection des morts ?
+               <milestone unit="verse" n="15.13"/>
+               S’il n’y a pas de résurrection des morts, alors le Christ n’est pas ressuscité non plus.
+               <milestone unit="verse" n="15.14"/>
+               Si le Christ n’est pas ressuscité, alors notre prédication est vaine, et votre foi est vaine aussi,
+               <milestone unit="verse" n="15.15"/>
+               et nous sommes alors considérés aussi comme des témoins du mensonge pour Dieu, nous qui avons témoigné concernant Dieu qu’il avait ressuscité le Christ, vu qu’il ne l’a pas ressuscité, si, comme vous le pensez, les morts ne ressuscitent pas.
+               <milestone unit="verse" n="15.16"/>
+               En vérité, si les morts ne ressuscitent pas, le Christ non plus n’est pas ressuscité.
+               <milestone unit="verse" n="15.17"/>
+               Si Christ n’est pas ressuscité, alors votre foi est vaine et vous êtes encore dans vos péchés.
+               <milestone unit="verse" n="15.18"/>
+               Alors ceux qui se reposent en Christ, ils ont vraiment péri.
+               <milestone unit="verse" n="15.19"/>
+               Et si c’est dans cette vie seulement que nous n’espérons qu’en Christ, nous sommes alors les plus misérables de tous les humains.
+               <milestone unit="verse" n="15.20"/>
+               Mais maintenant, le Christ est ressuscité d’entre les morts, un commencement pour ceux qui se reposent,
+               <milestone unit="verse" n="15.21"/>
+               parce que, par l’homme, la mort a existé, et, par l’homme également, la résurrection des morts.
+               <milestone unit="verse" n="15.22"/>
+               Et comme tous meurent en Adam, ainsi aussi tous 
+               
+               
+<!-- #######################################  folio 117r  ####################################### -->
+               <pb n="117r" xml:id="folio_117r"/>
+               
+               vivent en Christ,
+               <milestone unit="verse" n="15.23"/>
+               chacun est à son rang à lui ; quant au commencement, c’est le Christ, ensuite après lui, ceux qui sont au Christ à sa venue.
+               <milestone unit="verse" n="15.24"/>
+               Ensuite, là [sera] la fin, quand il aura livré la royauté à Dieu le père, quand il aura anéanti tout chef, toute autorité et toute puissance.
+               <milestone unit="verse" n="15.25"/>
+               Il faut qu’il règne jusqu’à ce qu’il mette tous ses ennemis sous ses pieds.
+               <milestone unit="verse" n="15.26"/>
+               Le dernier ennemi qui sera anéanti, c’est la mort.
+               <milestone unit="verse" n="15.27"/>
+               Car il a soumis toute chose sous ses pieds ; or quand il a dit : Tout lui a été soumis, il est connu que c’est à l’exception de celui qui lui a soumis toute chose.
+               <milestone unit="verse" n="15.28"/>
+               Quand toute chose lui aura été soumise, alors à ce moment-là aussi, le fils lui-même se soumettra à celui qui lui a tout soumis, pour que Dieu soit en tout.
+               <milestone unit="verse" n="15.29"/>
+               Et sinon, comment font ceux qui se font baptiser à la place des morts, si les morts ne ressuscitent pas, pour quelle raison se faire aussi baptiser à leur place ?
+               <milestone unit="verse" n="15.30"/>
+               Et pour quelle raison nous tenons-nous, nous aussi, à tout moment dans le grand danger ?
+               <milestone unit="verse" n="15.31"/>
+               Chaque jour, je meurs, par la fierté que j’ai à cause de vous, ô frères, dans le Christ Jésus notre Seigneur.
+               <milestone unit="verse" n="15.32"/>
+               Si j’ai été jeté en tant qu’humain aux bêtes à Éphèse, quel avantage pour moi ? Si les morts ne ressuscitent pas, alors mangeons et buvons, demain nous mourrons !
+               <milestone unit="verse" n="15.33"/>
+               Ne dépassez pas les limites : les mauvaises conversations corrompent les préoccupations honorables.
+               <milestone unit="verse" n="15.34"/>
+               Réveillez-vous à la justice et ne péchez pas, car il y a parmi vous des gens qui n’ont pas la connaissance de Dieu, je le dis pour votre réprimande.
+               <milestone unit="verse" n="15.35"/>
+               Mais quelques personnes diront : Comment les morts ressusciteront-ils ? Avec quel corps viendront-ils ?
+               <milestone unit="verse" n="15.36"/>
+               Ô ignorant, toi, ce que tu sèmes, si cela ne meurt pas, cela ne sera pas rendu à la vie.
+               <milestone unit="verse" n="15.37"/>
+               Et ce que tu sèmes, ce n’est pas 
+<!-- #######################################  folio 117v  ####################################### -->
+               <pb n="117v" xml:id="folio_117v"/>
+               le corps en devenir que tu sèmes, mais un grain nu de froment ou de quelque espèce,
+               <milestone unit="verse" n="15.38"/>
+               et Dieu lui donne un corps comme il le souhaite, et à chaque espèce son corps,
+               <milestone unit="verse" n="15.39"/>
+               car tous les corps ne sont pas un, mais autre est le corps de l’humain et autre est le corps des bêtes de somme, le corps des oiseaux, le corps des poissons, le corps des reptiles.
+               <milestone unit="verse" n="15.40"/>
+               Et il y a des corps célestes et des corps terrestres, mais autre est la gloire des célestes et la gloire des terrestres,
+               <milestone unit="verse" n="15.41"/>
+               et autre est la gloire du soleil, autre la gloire de la lune, autre la gloire des étoiles ; les étoiles rivalisent de gloire avec les étoiles.
+               <milestone unit="verse" n="15.42"/>
+               Il en est ainsi également de la résurrection des morts : il est semé dans la corruption et il ressuscite sans défaut,
+               <milestone unit="verse" n="15.43"/>
+               il est semé dans le mépris, il ressuscite dans la gloire, il est semé dans la faiblesse, il ressuscite dans la force,
+               <milestone unit="verse" n="15.44"/>
+               il est semé corps psychique, il ressuscite corps spirituel, car il peut être corps psychique et il peut être corps spirituel. 
+               <milestone unit="verse" n="15.45"/>
+               Ainsi, il est aussi écrit : Adam, le premier humain, devint l’âme vivante, et Adam, le dernier, l’esprit vivifiant.
+               <milestone unit="verse" n="15.46"/>
+               Mais le spirituel ne fut pas en premier, mais le psychique, puis après, le spirituel.
+               <milestone unit="verse" n="15.47"/>
+               Le premier homme est terreux, à partir de la terre, et le second homme est le Seigneur, à partir du ciel.
+               <milestone unit="verse" n="15.48"/>
+               Comme est le terreux, ainsi sont aussi les terreux, comme est le céleste, ainsi sont aussi les célestes.
+               <milestone unit="verse" n="15.49"/>
+               Et comme nous avons revêtu l’image de l’homme terreux, nous revêtirons aussi l’image de l’homme céleste.
+               <milestone unit="verse" n="15.50"/>
+               Je dis ceci, ô frères : la chair et le sang ne peuvent pas hériter du royaume de Dieu, et la corruption hériter de l’incorruptibilité.
+               <milestone unit="verse" n="15.51"/>
+               Ceci, je vous dis un secret, nous ne mourrons pas tous mais tous nous serons changés.
+             
+<!-- #######################################  folio 118r  ####################################### -->
+               <pb n="118r" xml:id="folio_118r"/>
+               
+               <milestone unit="verse" n="15.52"/>
+               Précipitamment, comme un clin d’œil, au dernier son du cor, il appellera et les morts ressusciteront sans défaut et nous changerons.
+               <milestone unit="verse" n="15.53"/>
+               Il faut que cet impermanent revête l’incorruptibilité et que ce mortel revête l’immortalité.
+               <milestone unit="verse" n="15.54"/>
+               Lorsque cet impermanent aura revêtu l’incorruptibilité et ce mortel l’immortalité, à ce moment-là s’accomplira la parole écrite : La mort a été engloutie par la victoire.
+               <milestone unit="verse" n="15.55"/>
+               Où est ta victoire, ô mort ? Où sont tes aiguillons, ô enfer ?
+               <milestone unit="verse" n="15.56"/>
+               Les aiguillons de la mort, c’est le péché et la puissance du péché, c’est la loi.
+               <milestone unit="verse" n="15.57"/>
+               Grâce soit à Dieu qui nous a donné la victoire en notre Seigneur Jésus le Christ !
+               <milestone unit="verse" n="15.58"/>
+               Alors, ô frères bien-aimés, soyez fermes et ne soyez pas ébranlés, en excellant tout le temps dans l’œuvre du Seigneur, en sachant que votre travail n’est pas vain dans le Seigneur.
+               <milestone unit="verse" n="16.1"/>
+               Mais au sujet de la collecte des saints, comme je l’ai recommandé à l’assemblée de la Galatie, ainsi, vous aussi, faites-le !
+               <milestone unit="verse" n="16.2"/>
+               Chaque dimanche (premier jour), que chacun de vous dépose et rassemble chez lui ce qu’il peut, que ce ne soit pas quand je viens qu’il y ait, à ce moment-là, la collecte.
+               <milestone unit="verse" n="16.3"/>
+               Quand je viendrai, ceux que vous choisissez, vous les enverrez avec des lettres pour faire parvenir votre grâce à Jérusalem,
+               <milestone unit="verse" n="16.4"/>
+               et si cela vaut la peine que j’aille moi aussi, ils iront avec moi.
+               <milestone unit="verse" n="16.5"/>
+               Et je viendrai chez vous quand j’aurai traversé la Macédoine. En effet, je traverserai la Macédoine,
+               <milestone unit="verse" n="16.6"/>
+               et peut-être que je séjournerai chez vous ou que je passerai l’hiver chez vous, afin que vous m’escortiez jusque là où je vais.
+               <milestone unit="verse" n="16.7"/>
+               Je ne veux pas 
+               
+<!-- #######################################  folio 118v  ####################################### -->
+               <pb n="118v" xml:id="folio_118v"/>
+               vous voir maintenant comme un voyageur qui passe, parce que j’espère rester chez vous un moment, si le Seigneur le permet.
+               <milestone unit="verse" n="16.8"/>
+               Je reste à Tarse jusqu’à Pentecôte,
+               <milestone unit="verse" n="16.9"/>
+               car une énorme porte m’a été ouverte avec du travail, et les opposants sont nombreux.
+               <milestone unit="verse" n="16.10"/>
+               Si Timothée vient chez vous, veillez à ce qu’il soit chez vous sans crainte ; en vérité, il travaille à l’œuvre du Seigneur, comme moi également.
+               <milestone unit="verse" n="16.11"/>
+               Que personne ne le rejette ; envoyez-le, qu’il vienne à moi en paix, je l’attends avec les frères.
+               <milestone unit="verse" n="16.12"/>
+               Mais à propos d’Apollos le frère, je lui ai beaucoup demandé de venir chez vous avec les frères ; ce n’était peut-être pas un souhait qu’il vienne chez vous maintenant, mais il viendra quand il sera disposé.
+               <milestone unit="verse" n="16.13"/>
+               Soyez éveillés et restez fermes dans la foi, soyez forts et protégez-vous.
+               <milestone unit="verse" n="16.14"/>
+               et tout ce qui est à vous, que ce soit dans l’amour.
+               <milestone unit="verse" n="16.15"/>
+               Je vous demande, ô frères, que, alors que vous connaissez déjà la maison de Stéphane et Fortunatus, qui est la tête de l’Achaïe et qui eux-mêmes se sont plu au service des saints,
+               <milestone unit="verse" n="16.16"/>
+               vous vous soumettiez aussi à de telles personnes, et à tous ceux qui travaillent avec nous et qui nous aident.
+               <milestone unit="verse" n="16.17"/>
+               Je me réjouis de la venue de Stéphane, Fortunatus et Achaïcus : ce que vous, vous avez négligé, eux, ils l’ont terminé.
+               <milestone unit="verse" n="16.18"/>
+               Ils ont donné du repos à mon esprit et au vôtre, soyez reconnaissants de ceux qui sont comme eux.
+               <milestone unit="verse" n="16.19"/>
+               Les assemblées d’Asie vous saluent, Aquilas et Priscilla, avec l’assemblée qui est dans leur maison, vous saluent abondamment dans le Seigneur.
+               <milestone unit="verse" n="16.20"/>
+               Tous les frères, ensemble, vous saluent. Saluez-vous les uns les autres par le saint baiser.
+               <milestone unit="verse" n="16.21"/>
+               Le salut qui est écrit de ma propre main,  
+             
+<!-- #######################################  folio 120r  ####################################### -->
+               <pb n="120r" xml:id="folio_120r"/>
+               
+               moi Paul.
+               <milestone unit="verse" n="16.22"/>
+               Toute personne qui n’aime pas notre Seigneur Jésus Christ, qu’elle soit anathème. Notre Seigneur est venu.
+               <milestone unit="verse" n="16.23"/>
+               La grâce de notre Seigneur Jésus le Christ est avec vous,
+               <milestone unit="verse" n="16.24"/>
+               et mon amour avec vous tous, en le Christ Jésus, amen.
+            
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
